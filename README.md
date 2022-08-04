@@ -1,5 +1,7 @@
-# Various competitive programming problems
+# Competitive programming problem solutions
 
-## Problem source
+## Sources
 
 * [clevercode](https://clevercode.lv/)
+* [codewars](https://www.codewars.com/)
+* [leetcode](https://leetcode.com/)
