@@ -1,4 +1,4 @@
-# Competitive programming problem solutions
+# Programming problem set solutions
 
 ## Sources
 
