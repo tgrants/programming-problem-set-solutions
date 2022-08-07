@@ -5,3 +5,4 @@
 * [clevercode](https://clevercode.lv/)
 * [codewars](https://www.codewars.com/)
 * [leetcode](https://leetcode.com/)
+* misc - problems from various sources
