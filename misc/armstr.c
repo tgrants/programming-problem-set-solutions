@@ -1,4 +1,6 @@
-// WORK IN PROGRESS - NOT SUBMITTED
+// Checks if a given number is an armstrong number
+// See clevercode/armstr.c for a different solution
+// https://en.wikipedia.org/wiki/Narcissistic_number
 
 #include <stdio.h>
 
@@ -21,7 +23,7 @@ int main() {
 		b /= 10;
 	}
 	if(a == s)
-		printf("IR");
+		printf("TRUE");
 	else
-		printf("NAV");
+		printf("FALSE");
 }
