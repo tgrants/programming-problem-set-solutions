@@ -3,8 +3,8 @@
 #include <iostream>
 #include <vector>
 
-/*int** fill(int x, int y) {
-	int r[x][y];
+std::vector<std::vector<int>> fill(int x, int y) {
+	std::vector<std::vector<int>> r(y, std::vector<int>(x));
 	int c = x * y;
 	while (x > 0) {
 		while (y > 0) {
@@ -14,7 +14,7 @@
 		x--;
 	}
 	return r;
-}*/
+}
 
 void print(std::vector<std::vector<int>> input) {
     for (int i = 0; i < input.size(); i++) {
@@ -35,10 +35,10 @@ std::vector<int> calc(std::vector<std::vector<int>> input) {
 }
 
 int main() {
-	/*int x, y;
+	int x, y;
 	std::cin >> x >> y;
 	auto t = fill(x, y);
-	auto r = calc(t);
+	//auto r = calc(t);
 	print(t);
-	print(r);*/
+	//print(r);
 }

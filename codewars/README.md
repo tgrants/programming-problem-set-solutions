@@ -4,3 +4,5 @@
 * fake-binary: https://www.codewars.com/kata/57eae65a4321032ce000002d
 * vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
 * multiples-of-3-or-5: https://www.codewars.com/kata/514b92a657cdc65150000006
+* is-this-my-tail: https://www.codewars.com/kata/56f695399400f5d9ef000af5
+* bit-counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
