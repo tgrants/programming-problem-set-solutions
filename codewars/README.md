@@ -12,9 +12,12 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* binary-addition: https://www.codewars.com/kata/551f37452ff852b7bd000139
 	* area-of-an-arrow: https://www.codewars.com/kata/589478160c0f8a40870000bc
 	* reverse-words: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/cpp
+	* odd-or-even: https://www.codewars.com/kata/5949481f86420f59480000e7
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
 	* fake-binary: https://www.codewars.com/kata/57eae65a4321032ce000002d
 	* is-this-my-tail: https://www.codewars.com/kata/56f695399400f5d9ef000af5
 	* reversed-strings: https://www.codewars.com/kata/5168bb5dfe9a00b126000018
+	* is-the-string-uppercase: https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
+	* beginner-lost-without-a-map: https://www.codewars.com/kata/57f781872e3d8ca2a000007e
