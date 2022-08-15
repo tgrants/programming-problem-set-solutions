@@ -7,18 +7,17 @@ int main() {
 	std::string a, b;
 	std::cin >> a >> b;
 	for (char cb : b) {
-		int contains = 0;
+		bool contains = false;
 		for (char ca : a) {
 			if (cb == ca) {
-				contains++;
+				contains = true;
 				break;
 			}
 		}
-		if (contains == 0) {
+		if (!contains) {
 			std::cout << "Nevar";
 			return 0;
 		}
 	}
 	std::cout << "Var";
-	return 1;
 }
