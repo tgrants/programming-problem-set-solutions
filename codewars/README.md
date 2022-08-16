@@ -23,3 +23,4 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* reversed-strings: https://www.codewars.com/kata/5168bb5dfe9a00b126000018
 	* is-the-string-uppercase: https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
 	* beginner-lost-without-a-map: https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+	* remove-first-and-last-character: https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0

@@ -1,20 +1,24 @@
-// WORK IN PROGRESS - NOT SUBMITTED
-
 #include <stdio.h>
 
 int main() {
-	char g[64];
-	for(int i = 0; i < 64; i++)
-		g[i] = '*';
+	char g[8][8];
+	for(int i = 0; i < 8; i++)
+		for(int j = 0; j < 8; j++)
+			g[i][j] = '2';
 
 	int x, y;
 	scanf("%c %d", &x, &y);
-	x -= 96;
-	printf("%d %d\n", x, y);
-
+	x -= 97;
+	y -= 1;
 	for(int i = 0; i < 8; i++) {
+		g[x][i] = '1';
+		g[i][y] = '1';
+	}
+	g[x][y] = '0';
+
+	for(int i = 7; i >= 0; i--) {
 		for(int j = 0; j < 8; j++)
-			printf("%c", g[i * 8 + j]);
+			printf("%c", g[j][i]);
 		printf("\n");
 	}
 }
