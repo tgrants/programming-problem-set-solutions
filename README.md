@@ -7,6 +7,7 @@ Newer code is more likely to have better practices.
 
 * [clevercode](https://clevercode.lv/)
 * [codewars](https://www.codewars.com/)
+* [hackerrank](https://www.hackerrank.com)
 * [leetcode](https://leetcode.com/)
 * misc - problems from various sources
 * meta - scripts for maintaining this repository
