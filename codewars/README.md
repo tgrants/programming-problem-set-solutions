@@ -9,6 +9,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* bit-counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
 	* does-my-number-look-big-in-this: https://www.codewars.com/kata/5287e858c6b5a9678200083c
 	* unique-in-order: https://www.codewars.com/kata/54e6533c92449cc251001667
+	* mexican-wave: https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -17,6 +18,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* reverse-words: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/cpp
 	* odd-or-even: https://www.codewars.com/kata/5949481f86420f59480000e7
 	* complementary-dna: https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+	* are-the-numbers-in-order: https://www.codewars.com/kata/56b7f2f3f18876033f000307
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
