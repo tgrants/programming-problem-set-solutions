@@ -4,6 +4,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 
 * 5 kyu
 	* rot13: https://www.codewars.com/kata/530e15517bc88ac656000716
+	* moving-zeros-to-the-end: https://www.codewars.com/kata/52597aa56021e91c93000cb0/
 * 6 kyu
 	* multiples-of-3-or-5: https://www.codewars.com/kata/514b92a657cdc65150000006
 	* bit-counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
