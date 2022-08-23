@@ -20,6 +20,7 @@ Feel free to use this repository for learning purposes.
 This repository also contains some useful scrips:
 * `clear.sh` - removes all executables
 * `clear-all.sh` - removes all solutions
+* `clevercode.py` - pulls and processes data from clevercode.lv
 
 ## Contributing
 

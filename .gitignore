@@ -1,2 +1,6 @@
+# Folders
 .vscode/
 build/
+
+# Extensions
+*.csv

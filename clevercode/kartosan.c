@@ -11,8 +11,8 @@ int main() {
 	for(int i = 0; i < n; i++)
 		scanf("%d", &m[i]);
 	quicksort(m, 0, n - 1);
-	for(int i = 1; i < n; i += 2)
-		printf("%d ", m[i]);
+	for(int i = 0; i < n; i++)
+		printf("%d\n", m[i]);	
 }
 
 // V1 2022-08-23
