@@ -2,6 +2,8 @@
 
 Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 
+* 4 kyu 
+	* (WIP) human-readable-duration-format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
 * 5 kyu
 	* rot13: https://www.codewars.com/kata/530e15517bc88ac656000716
 	* moving-zeros-to-the-end: https://www.codewars.com/kata/52597aa56021e91c93000cb0/

@@ -20,26 +20,49 @@ def fetch_stats(user):
 
 def stalk(user):
 	soup = fetch_stats(user)
+
 	task_table = soup.find("table", class_="table table-striped hidden-xs")
+	task_data = pd.read_html(str(task_table))[0]
 
-	headers = []
-	for i in task_table.find_all("th"):
-		headers.append(i.text)
+	stats_table = soup.find("table", class_="table table-condensed")
+	stats_data = pd.read_html(str(stats_table))[0]
 
-	data = pd.DataFrame(columns = headers)
-	for j in task_table.find_all("tr")[1:]:
-		row_data = j.find_all("td")
-		row = [i.text for i in row_data]
-		length = len(data)
-		data.loc[length] = row
+	# Print stats table
+	print("Stats for user '{}'".format(user))
+	for i, name in enumerate(["Complete tasks", "Incomplete tasks", "Submissions", "Points"]):
+		print("\t{}: {}".format(name, stats_data.loc[i, 1]))
 
 	if input("Export data to a csv file? (N/y): ") == "y":
-		data.to_csv("{}_data.csv".format(user), index=False)
+		task_data.to_csv("{}_task_data.csv".format(user), index=False)
 
 
 def compare(user_a, user_b):
+	# User A
 	soup_a = fetch_stats(user_a)
+
+	task_table_a = soup_a.find("table", class_="table table-striped hidden-xs")
+	task_data_a = pd.read_html(str(task_table_a))[0]
+
+	stats_table_a = soup_a.find("table", class_="table table-condensed")
+	stats_data_a = pd.read_html(str(stats_table_a))[0]
+
+	# User B
 	soup_b = fetch_stats(user_b)
+	
+	task_table_b = soup_b.find("table", class_="table table-striped hidden-xs")
+	task_data_b = pd.read_html(str(task_table_b))[0]
+
+	stats_table_b = soup_b.find("table", class_="table table-condensed")
+	stats_data_b = pd.read_html(str(stats_table_b))[0]
+
+	# Compare stats
+	print("Stat compartison between user '{}' and '{}'".format(user_a, user_b))
+	for i, name in enumerate(["Complete tasks", "Incomplete tasks", "Submissions", "Points"]):
+		print("\t{}: {}".format(name, stats_data_a.loc[i, 1] - stats_data_b.loc[i, 1]))
+
+	# Compare tasks
+	print("Tasks unique to user '{}':".format(user_a))
+	print("Tasks unique to user '{}':".format(user_b))
 	# Work-in-progress
 
 
@@ -56,7 +79,7 @@ if __name__ == "__main__":
 			compare(sys.argv[2], sys.argv[3])
 		case "stalk":
 			if len(sys.argv) != 3:
-				print("Command 'stalk' requires a username")
+				print("Command 'stalk' requires 1 username")
 				exit()
 			stalk(sys.argv[2])
 		case "help":
