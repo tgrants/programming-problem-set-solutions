@@ -32,3 +32,4 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* beginner-lost-without-a-map: https://www.codewars.com/kata/57f781872e3d8ca2a000007e
 	* remove-first-and-last-character: https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 	* double-char: https://www.codewars.com/kata/56b1f01c247c01db92000076
+	* find-numbers-which-are-divisible-by-given-number: https://www.codewars.com/kata/55edaba99da3a9c84000003b
