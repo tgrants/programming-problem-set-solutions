@@ -1,5 +1,3 @@
-// WORK IN PROGRESS, NOT SUBMITTED
-
 #include <stdio.h>
 
 void quicksort(int [], int, int);
@@ -7,18 +5,18 @@ int partition(int [], int, int);
 void swap(int*, int*);
 
 int main() {
-	int n, s = 0;
-	scanf("%d", &n);
-	if (n > 3) {
-		int m[n];
-		for(int i = 0; i < n; i++)
-			scanf("%d", &m[n]);
-		quicksort(m, 0, n - 1);
-		for (int i = 3; i < n; i++)
-			if (m[i] > m[0] + m[1] + m[2])
-				s++;
-	}
-	printf("%d", s);
+	int n, m, c = 0, s = 0;
+	scanf("%d %d", &n, &m);
+	int arr[n];
+	for(int i = 0; i < n; i++)
+		scanf("%d", &arr[i]);
+	quicksort(arr, 0, n - 1);
+	for (int i = 0; i < m; i++)
+		s += arr[i];
+	for (int i = m; i < n; i++)
+		if (arr[i] > s)
+			c++;
+	printf("%d", c);
 }
 
 // V1 2022-08-23

@@ -3,19 +3,28 @@
 
 # Dependencies: BeautifulSoup4, lxml, pandas
 
+import os
 import requests
 import sys
 import pandas as pd
+from os import path
 from bs4 import BeautifulSoup as bs
 
 
 def fetch_stats(user):
-	url = "https://clevercode.lv/statistics/{}".format(user)
-	page = requests.get(url)
-	if not page.ok:
-		print("Could not load page for user '{}'. Status code {}".format(user, page.status_code))
-		exit()
-	return bs(page.text, "lxml")
+	# Check if user already has their stats saved
+	file_path = "meta/clevercode/{}_bs.txt".format(user)
+	if path.isfile(file_path):
+		return bs(open(file_path).read(), "lxml")
+	else:
+		url = "https://clevercode.lv/statistics/{}".format(user)
+		page = requests.get(url)
+		if not page.ok:
+			print("Could not load page for user '{}'. Status code {}".format(user, page.status_code))
+			exit()
+		with open(file_path, "w") as file:
+			file.write(page.text)
+		return bs(page.text, "lxml")
 
 
 def stalk(user):
@@ -33,7 +42,7 @@ def stalk(user):
 		print("\t{}: {}".format(name, stats_data.loc[i, 1]))
 
 	if input("Export data to a csv file? (N/y): ") == "y":
-		task_data.to_csv("{}_task_data.csv".format(user), index=False)
+		task_data.to_csv("meta/clevercode/{}_task_data.csv".format(user), index=False)
 
 
 def compare(user_a, user_b):
@@ -61,8 +70,11 @@ def compare(user_a, user_b):
 		print("\t{}: {}".format(name, stats_data_a.loc[i, 1] - stats_data_b.loc[i, 1]))
 
 	# Compare tasks
-	print("Tasks unique to user '{}':".format(user_a))
-	print("Tasks unique to user '{}':".format(user_b))
+	task_data = pd.merge(task_data_a, task_data_b, on="Kods", how="outer")
+	print(task_data.to_string())
+
+	#print("Tasks unique to user '{}':".format(user_a))
+	#print("Tasks unique to user '{}':".format(user_b))
 	# Work-in-progress
 
 
