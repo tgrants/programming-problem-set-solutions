@@ -22,6 +22,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* odd-or-even: https://www.codewars.com/kata/5949481f86420f59480000e7
 	* complementary-dna: https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 	* are-the-numbers-in-order: https://www.codewars.com/kata/56b7f2f3f18876033f000307
+	* (WIP) build-a-square: https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -33,3 +34,4 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* remove-first-and-last-character: https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 	* double-char: https://www.codewars.com/kata/56b1f01c247c01db92000076
 	* find-numbers-which-are-divisible-by-given-number: https://www.codewars.com/kata/55edaba99da3a9c84000003b
+	* is-n-divisible-by-x-and-y: https://www.codewars.com/kata/5545f109004975ea66000086
