@@ -35,3 +35,4 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* double-char: https://www.codewars.com/kata/56b1f01c247c01db92000076
 	* find-numbers-which-are-divisible-by-given-number: https://www.codewars.com/kata/55edaba99da3a9c84000003b
 	* is-n-divisible-by-x-and-y: https://www.codewars.com/kata/5545f109004975ea66000086
+	* count-by-x: https://www.codewars.com/kata/5513795bd3fafb56c200049e
