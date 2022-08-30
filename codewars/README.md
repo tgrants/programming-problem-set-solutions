@@ -37,3 +37,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* is-n-divisible-by-x-and-y: https://www.codewars.com/kata/5545f109004975ea66000086
 	* count-by-x: https://www.codewars.com/kata/5513795bd3fafb56c200049e
 	* convert-string-to-an-array: https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
+	* count-odd-numbers-below-n: https://www.codewars.com/kata/59342039eb450e39970000a6
+	* filling-an-array-part-1: https://www.codewars.com/kata/571d42206414b103dc0006a1
+	* powers-of-2: https://www.codewars.com/kata/57a083a57cb1f31db7000028
+	* gravity-flip: https://www.codewars.com/kata/5f70c883e10f9e0001c89673

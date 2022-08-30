@@ -3,7 +3,6 @@
 
 # Dependencies: BeautifulSoup4, lxml, pandas
 
-import os
 import requests
 import sys
 import pandas as pd
@@ -36,9 +35,17 @@ def stalk(user):
 	stats_table = soup.find("table", class_="table table-condensed")
 	stats_data = pd.read_html(str(stats_table))[0]
 
+	# Extend stats
+	ext_stats = pd.DataFrame([
+		["Mean time", task_data["Maz. laiks (s)"].mean()],
+		["Mean memory", task_data["Maz. atmiņa (MB)"].mean()]])
+	print(ext_stats)
+	pd.concat([stats_data, ext_stats]).reset_index()
+	print(stats_data)
+
 	# Print stats table
 	print("Stats for user '{}'".format(user))
-	for i, name in enumerate(["Complete tasks", "Incomplete tasks", "Submissions", "Points"]):
+	for i, name in enumerate(["Complete tasks", "Incomplete tasks", "Submissions", "Points", "Mean time", "Mean memory"]):
 		print("\t{}: {}".format(name, stats_data.loc[i, 1]))
 
 	if input("Export data to a csv file? (N/y): ") == "y":
@@ -70,7 +77,7 @@ def compare(user_a, user_b):
 		print("\t{}: {}".format(name, stats_data_a.loc[i, 1] - stats_data_b.loc[i, 1]))
 
 	# Compare tasks
-	task_data = pd.merge(task_data_a, task_data_b, on="Kods", how="outer")
+	task_data = pd.merge(task_data_a, task_data_b, on="Kods", how="outer", suffixes=('_left', '_right'))
 	print(task_data.to_string())
 
 	#print("Tasks unique to user '{}':".format(user_a))
