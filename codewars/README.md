@@ -23,6 +23,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* complementary-dna: https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 	* are-the-numbers-in-order: https://www.codewars.com/kata/56b7f2f3f18876033f000307
 	* (WIP) build-a-square: https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
+	* factorial: https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -41,3 +42,4 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* filling-an-array-part-1: https://www.codewars.com/kata/571d42206414b103dc0006a1
 	* powers-of-2: https://www.codewars.com/kata/57a083a57cb1f31db7000028
 	* gravity-flip: https://www.codewars.com/kata/5f70c883e10f9e0001c89673
+	* exclamation-mark-series-1.cpp: https://www.codewars.com/kata/57fae964d80daa229d000126
