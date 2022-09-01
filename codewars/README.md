@@ -31,7 +31,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* is-this-my-tail: https://www.codewars.com/kata/56f695399400f5d9ef000af5
 	* reversed-strings: https://www.codewars.com/kata/5168bb5dfe9a00b126000018
 	* is-the-string-uppercase: https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
-	* beginner-lost-without-a-map: https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+	* lost-without-a-map: https://www.codewars.com/kata/57f781872e3d8ca2a000007e
 	* remove-first-and-last-character: https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 	* double-char: https://www.codewars.com/kata/56b1f01c247c01db92000076
 	* find-numbers-which-are-divisible-by-given-number: https://www.codewars.com/kata/55edaba99da3a9c84000003b
@@ -43,3 +43,5 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* powers-of-2: https://www.codewars.com/kata/57a083a57cb1f31db7000028
 	* gravity-flip: https://www.codewars.com/kata/5f70c883e10f9e0001c89673
 	* exclamation-mark-series-1.cpp: https://www.codewars.com/kata/57fae964d80daa229d000126
+	* reduce-but-grow: https://www.codewars.com/kata/57f780909f7e8e3183000078
+	* opposite-number: https://www.codewars.com/kata/56dec885c54a926dcd001095
