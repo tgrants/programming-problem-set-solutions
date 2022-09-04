@@ -5,14 +5,10 @@
 
 std::vector<std::vector<int>> fill(int x, int y) {
 	std::vector<std::vector<int>> r(y, std::vector<int>(x));
-	int c = x * y;
-	while (x > 0) {
-		while (y > 0) {
-			r[x][y] = --c;
-			y--;
-		}
-		x--;
-	}
+	int c = 0;
+	for (int i = 0; i < x; i++)
+		for (int j = 0; j < y; j++)
+			r[i][j] = ++c;
 	return r;
 }
 
