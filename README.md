@@ -26,3 +26,8 @@ This repository also contains some useful scrips:
 
 If you notice a typo, code that no longer works or something else, feel free to open an issue.
 Pull requests with solutions won't be merged, as this is only for practice.
+However, contributions to the tools and scripts are welcome.
+
+## License
+
+This repository is licensed under the MIT License. See `LICENSE` for more information.
