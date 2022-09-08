@@ -1,3 +1,5 @@
+// Work-in-progress
+
 #include <stdio.h>
 #include <string.h>
 
@@ -12,11 +14,13 @@ void addToCharArray(char* a, int b) {
 		}
 		b /= 10;
 	}
+	printf("carry: %d\nb: %d\n", carry, b);
 }
 
 int main() {
-	char a[50] = "1";
-	int b = 999;
+	char a[50] = {0};
+	int b;
+	scanf("%s %d", a, &b);
 
 	addToCharArray(a, b);
 
