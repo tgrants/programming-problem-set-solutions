@@ -45,3 +45,4 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* exclamation-mark-series-1.cpp: https://www.codewars.com/kata/57fae964d80daa229d000126
 	* reduce-but-grow: https://www.codewars.com/kata/57f780909f7e8e3183000078
 	* opposite-number: https://www.codewars.com/kata/56dec885c54a926dcd001095
+	* n-th-power: https://www.codewars.com/kata/57d814e4950d8489720008db
