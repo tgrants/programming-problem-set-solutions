@@ -46,3 +46,8 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* reduce-but-grow: https://www.codewars.com/kata/57f780909f7e8e3183000078
 	* opposite-number: https://www.codewars.com/kata/56dec885c54a926dcd001095
 	* n-th-power: https://www.codewars.com/kata/57d814e4950d8489720008db
+	* calculate-average: https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
+	* abbreviate-a-two-word-name: https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
+	* school-paperwork: https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
+	* basic-mathematical-expressions: https://www.codewars.com/kata/57356c55867b9b7a60000bd7
+	* simple-multiplication: https://www.codewars.com/kata/583710ccaa6717322c000105
