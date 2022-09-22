@@ -24,6 +24,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* are-the-numbers-in-order: https://www.codewars.com/kata/56b7f2f3f18876033f000307
 	* (WIP) build-a-square: https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
 	* factorial: https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc
+	* is-this-a-triangle: https://www.codewars.com/kata/56606694ec01347ce800001b
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
