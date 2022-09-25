@@ -3,33 +3,35 @@
 My solutions of various programming problems. While correct, they are not guaranteed to be the best.
 Newer code is more likely to have better practices.
 
-<a title="Clevercode" href="https://clevercode.lv/statistics/Scheibenwischer">
-    <img src="https://img.shields.io/badge/clevercode-Scheibenwischer-red?style=flat-square&color=333333&labelColor=5C97CB"/>
+<a title="CleverCode" href="https://clevercode.lv/statistics/Scheibenwischer">
+	<img src="https://img.shields.io/badge/clevercode-Scheibenwischer-red?style=flat-square&color=333333&labelColor=5C97CB"/>
+</a>
+<a title="Codeforces" href="https://codeforces.com/profile/Scheibenwischer">
+	<img src="https://img.shields.io/badge/codeforces-Scheibenwischer-red?style=flat-square&color=333333&labelColor=425E9C"/>
 </a>
 <a title="Codewars" href="https://codewars.com/users/Scheibenwischer">
-    <img src="https://img.shields.io/badge/codewars-Scheibenwischer-red?style=flat-square&color=333333&labelColor=B1361E"/>
+	<img src="https://img.shields.io/badge/codewars-Scheibenwischer-red?style=flat-square&color=333333&labelColor=B1361E"/>
 </a>
-<a title="Hackerrank" href="https://www.hackerrank.com/Scheibenwischer">
-    <img src="https://img.shields.io/badge/hackerrank-Scheibenwischer-red?style=flat-square&color=333333&labelColor=2EC866"/>
+<a title="HackerRank" href="https://www.hackerrank.com/Scheibenwischer">
+	<img src="https://img.shields.io/badge/hackerrank-Scheibenwischer-red?style=flat-square&color=333333&labelColor=2EC866"/>
 </a>
-<a title="Leetcode" href="https://leetcode.com/Scheibenwischer/">
-    <img src="https://img.shields.io/badge/leetcode-Scheibenwischer-red?style=flat-square&color=333333&labelColor=EBA43F"/>
+<a title="LeetCode" href="https://leetcode.com/Scheibenwischer/">
+	<img src="https://img.shields.io/badge/leetcode-Scheibenwischer-red?style=flat-square&color=333333&labelColor=EBA43F"/>
 </a>
-
 
 ## Contents
 
-* [clevercode](https://clevercode.lv/)
-* [codewars](https://www.codewars.com/)
-* [hackerrank](https://www.hackerrank.com)
-* [leetcode](https://leetcode.com/)
-* misc - problems from various sources
+* [CleverCode](https://clevercode.lv/)
+* [Codeforces](https://codeforces.com/)
+* [Codewars](https://www.codewars.com/)
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com/)
+* misc - problems from other sources
 * meta - scripts for maintaining this repository
 * tools - useful code snippets
 
 ### Other sites
 
-* [Codeforces](https://codeforces.com/)
 * [CSES](https://cses.fi)
 * [DM::OJ](https://dmoj.ca)
 * [Kattis](https://open.kattis.com/)

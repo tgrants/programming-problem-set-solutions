@@ -52,3 +52,4 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* school-paperwork: https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
 	* basic-mathematical-expressions: https://www.codewars.com/kata/57356c55867b9b7a60000bd7
 	* simple-multiplication: https://www.codewars.com/kata/583710ccaa6717322c000105
+	* traffic-light: https://www.codewars.com/kata/58649884a1659ed6cb000072
