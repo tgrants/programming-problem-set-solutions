@@ -1,23 +1,13 @@
 #include <string>
 
-std::string DNAStrand(const std::string& dna) {
-    std::string comp;
-    for (char c : dna) {
-        switch (c) {
-            case 'A':
-                c = 'T';
-                break;
-            case 'C':
-                c = 'G';
-                break;
-            case 'G':
-                c = 'C';
-                break;
-            case 'T':
-                c = 'A';
-                break;
-        }
-        comp += c;
-    }
-    return comp;
+std::string DNAStrand(std::string dna) {
+	for (int i = 0; i < dna.length(); i++) {
+		switch (dna[i]) {
+			case 'A': dna[i] = 'T'; break;
+			case 'C': dna[i] = 'G'; break;
+			case 'G': dna[i] = 'C'; break;
+			case 'T': dna[i] = 'A'; break;
+		}
+	}
+	return dna;
 }

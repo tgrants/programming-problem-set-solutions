@@ -4,6 +4,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 
 * 4 kyu 
 	* (WIP) human-readable-duration-format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
+	* (TODO) matrix-determinant: https://www.codewars.com/kata/52a382ee44408cea2500074c
 * 5 kyu
 	* rot13: https://www.codewars.com/kata/530e15517bc88ac656000716
 	* moving-zeros-to-the-end: https://www.codewars.com/kata/52597aa56021e91c93000cb0/
@@ -13,6 +14,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* does-my-number-look-big-in-this: https://www.codewars.com/kata/5287e858c6b5a9678200083c
 	* unique-in-order: https://www.codewars.com/kata/54e6533c92449cc251001667
 	* mexican-wave: https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
+	* take-a-ten-minutes-walk: https://www.codewars.com/kata/54da539698b8a2ad76000228
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -26,6 +28,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* factorial: https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc
 	* is-this-a-triangle: https://www.codewars.com/kata/56606694ec01347ce800001b
 	* bug-in-apple: https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9
+	* shortest-word: https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
