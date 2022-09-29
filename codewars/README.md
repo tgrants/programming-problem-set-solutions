@@ -57,3 +57,9 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* basic-mathematical-expressions: https://www.codewars.com/kata/57356c55867b9b7a60000bd7
 	* simple-multiplication: https://www.codewars.com/kata/583710ccaa6717322c000105
 	* traffic-light: https://www.codewars.com/kata/58649884a1659ed6cb000072
+	* grasshopper-summation: https://www.codewars.com/kata/55d24f55d7dd296eb9000030
+	* get-planet-name-by-id: https://www.codewars.com/kata/515e188a311df01cba000003
+	* do-i-get-a-bonus: https://www.codewars.com/kata/56f6ad906b88de513f000d96
+	* substract-the-sum: https://www.codewars.com/kata/56c5847f27be2c3db20009c3
+	* is-it-even: https://www.codewars.com/kata/555a67db74814aa4ee0001b5
+	* you-cant-code-under-pressure: https://www.codewars.com/kata/53ee5429ba190077850011d4
