@@ -57,13 +57,17 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* basic-mathematical-expressions: https://www.codewars.com/kata/57356c55867b9b7a60000bd7
 	* simple-multiplication: https://www.codewars.com/kata/583710ccaa6717322c000105
 	* traffic-light: https://www.codewars.com/kata/58649884a1659ed6cb000072
-<<<<<<< HEAD
 	* grasshopper-summation: https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 	* get-planet-name-by-id: https://www.codewars.com/kata/515e188a311df01cba000003
 	* do-i-get-a-bonus: https://www.codewars.com/kata/56f6ad906b88de513f000d96
 	* substract-the-sum: https://www.codewars.com/kata/56c5847f27be2c3db20009c3
 	* is-it-even: https://www.codewars.com/kata/555a67db74814aa4ee0001b5
 	* you-cant-code-under-pressure: https://www.codewars.com/kata/53ee5429ba190077850011d4
-=======
 	* convert-boolean-values-to-strings-yes-or-no: https://www.codewars.com/kata/53369039d7ab3ac506000467
->>>>>>> 90c42c94a6c7e513626a255e24290dd34dbad5af
+	* remove-string-spaces: https://www.codewars.com/kata/57eae20f5500ad98e50002c5
+	* the-feast-of-many-beasts: https://www.codewars.com/kata/5aa736a455f906981800360d
+	* personalised-message: https://www.codewars.com/kata/5772da22b89313a4d50012f7
+	* you-only-need-one: https://www.codewars.com/kata/57cc975ed542d3148f00015b
+	* clock: https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
+	* even-or-odd: https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+	* get-character-from-ascii-value: https://www.codewars.com/kata/55ad04714f0b468e8200001c
