@@ -21,9 +21,9 @@ Newer code is more likely to have better practices.
 
 ## Contents
 
-* [CleverCode](https://clevercode.lv/)
-* [Codeforces](https://codeforces.com/)
-* [Codewars](https://www.codewars.com/)
+* [CleverCode](https://clevercode.lv/) +
+* [Codeforces](https://codeforces.com/) +
+* [Codewars](https://www.codewars.com/) +
 * [HackerRank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com/)
 * misc - problems from other sources
@@ -35,6 +35,10 @@ Newer code is more likely to have better practices.
 * [CSES](https://cses.fi)
 * [DM::OJ](https://dmoj.ca)
 * [Kattis](https://open.kattis.com/)
+
+## My stats
+
+under construction
 
 ## Usage
 

@@ -71,3 +71,13 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* clock: https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
 	* even-or-odd: https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
 	* get-character-from-ascii-value: https://www.codewars.com/kata/55ad04714f0b468e8200001c
+	* string-repeat: https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+	* how-good-are-you-really: https://www.codewars.com/kata/5601409514fc93442500010b
+	* sum-of-positive: https://www.codewars.com/kata/5715eaedb436cf5606000381
+	* invert-values: https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
+	* opposites-attract: https://www.codewars.com/kata/555086d53eac039a2a000083
+	* will-you-make-it: https://www.codewars.com/kata/5861d28f124b35723e00005e
+	* volume-of-a-cuboid: https://www.codewars.com/kata/58261acb22be6e2ed800003a
+	* square-n-sum: https://www.codewars.com/kata/515e271a311df0350d00000f
+	* is-he-gonna-survive: https://www.codewars.com/kata/59ca8246d751df55cc00014c
+	* terminal-game-combat-function: https://www.codewars.com/kata/586c1cf4b98de0399300001d
