@@ -81,3 +81,9 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* square-n-sum: https://www.codewars.com/kata/515e271a311df0350d00000f
 	* is-he-gonna-survive: https://www.codewars.com/kata/59ca8246d751df55cc00014c
 	* terminal-game-combat-function: https://www.codewars.com/kata/586c1cf4b98de0399300001d
+	* convert-a-bool-to-a-string: https://www.codewars.com/kata/551b4501ac0447318f0009cd
+	* hex-to-decimal: https://www.codewars.com/kata/57a4d500e298a7952100035d
+	* cockroach: https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
+	* counting-sheep: https://www.codewars.com/kata/54edbc7200b811e956000556
+	* get-nth-even-number: https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
+	* drink-about: https://www.codewars.com/kata/56170e844da7c6f647000063
