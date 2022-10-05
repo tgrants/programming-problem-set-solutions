@@ -8,8 +8,7 @@ from bs4 import BeautifulSoup as bs
 
 # Work-in-progress
 
-def fetch_stats(site, user):
-	url = site.format(user)
+def fetch_stats(url):
 	page = requests.get(url)
 	if not page.ok:
 		print("Could not load {}. Status code {}".format(url, page.status_code))
@@ -20,15 +19,16 @@ def fetch_stats(site, user):
 
 if __name__ == "__main__":
 	# Clevercode
-	soup_clevercode = fetch_stats("https://clevercode.lv/statistics/{}", "Scheibenwischer")
+	soup_clevercode = fetch_stats("https://clevercode.lv/statistics")
 
 	# Codeforces
 	# Use API
+	# https://codeforces.com/api/user.rating?handle={}
 	pass
 
 	# Codewars
 	# Use API
-	# https://www.codewars.com/api/v1/users/Scheibenwischer
+	# https://www.codewars.com/api/v1/users/{}
 	pass
 
 	# Hackerrank
@@ -36,5 +36,5 @@ if __name__ == "__main__":
 	pass
 
 	# Leetcode
-	soup_leetcode = fetch_stats("https://leetcode.com/{}/", "Scheibenwischer")
+	soup_leetcode = fetch_stats("https://leetcode.com/{}/".format("Scheibenwischer"))
 	pass

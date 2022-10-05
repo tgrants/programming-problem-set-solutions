@@ -81,3 +81,8 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* square-n-sum: https://www.codewars.com/kata/515e271a311df0350d00000f
 	* is-he-gonna-survive: https://www.codewars.com/kata/59ca8246d751df55cc00014c
 	* terminal-game-combat-function: https://www.codewars.com/kata/586c1cf4b98de0399300001d
+	* pillars: https://www.codewars.com/kata/5bb0c58f484fcd170700063d
+	* collatz-conjecture: https://www.codewars.com/kata/577a6e90d48e51c55e000217
+	* dna-to-rna-conversion: https://www.codewars.com/kata/5556282156230d0e5e000089
+	* find-the-smallest-integer-in-the-array: https://www.codewars.com/kata/55a2d7ebe362935a210000b2
+	* century-from-year: https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
