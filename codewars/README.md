@@ -86,3 +86,9 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* dna-to-rna-conversion: https://www.codewars.com/kata/5556282156230d0e5e000089
 	* find-the-smallest-integer-in-the-array: https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 	* century-from-year: https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+	* convert-a-bool-to-a-string: https://www.codewars.com/kata/551b4501ac0447318f0009cd
+	* hex-to-decimal: https://www.codewars.com/kata/57a4d500e298a7952100035d
+	* cockroach: https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
+	* counting-sheep: https://www.codewars.com/kata/54edbc7200b811e956000556
+	* get-nth-even-number: https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
+	* drink-about: https://www.codewars.com/kata/56170e844da7c6f647000063
