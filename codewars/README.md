@@ -92,3 +92,6 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* counting-sheep: https://www.codewars.com/kata/54edbc7200b811e956000556
 	* get-nth-even-number: https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
 	* drink-about: https://www.codewars.com/kata/56170e844da7c6f647000063
+	* find-maximum-and-minimum-values-of-a-list: https://www.codewars.com/kata/577a98a6ae28071780000989
+	* 101-dalmatians: https://www.codewars.com/kata/56f6919a6b88de18ff000b36
+	* (WIP) hello-world: https://www.codewars.com/kata/523b4ff7adca849afe000035
