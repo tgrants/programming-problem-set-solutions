@@ -95,3 +95,5 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* find-maximum-and-minimum-values-of-a-list: https://www.codewars.com/kata/577a98a6ae28071780000989
 	* 101-dalmatians: https://www.codewars.com/kata/56f6919a6b88de18ff000b36
 	* (WIP) hello-world: https://www.codewars.com/kata/523b4ff7adca849afe000035
+	* multiplication-table-for-numbers: https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce
+	* grade-book: https://www.codewars.com/kata/55cbd4ba903825f7970000f5
