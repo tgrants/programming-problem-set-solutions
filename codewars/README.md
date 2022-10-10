@@ -97,3 +97,10 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* (WIP) hello-world: https://www.codewars.com/kata/523b4ff7adca849afe000035
 	* multiplication-table-for-numbers: https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce
 	* grade-book: https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+	* keep-hydrated: https://www.codewars.com/kata/582cb0224e56e068d800003c
+	* what-is-between: https://www.codewars.com/kata/55ecd718f46fba02e5000029
+	* the-if-function: https://www.codewars.com/kata/54147087d5c2ebe4f1000805
+	* bug-fixing: https://www.codewars.com/kata/55c28f7304e3eaebef0000da
+	* set-alarm: https://www.codewars.com/kata/568dcc3c7f12767a62000038
+	* switch-it-up: https://www.codewars.com/kata/5808dcb8f0ed42ae34000031
+	* basic-variable-assignment: https://www.codewars.com/kata/50ee6b0bdeab583673000025/
