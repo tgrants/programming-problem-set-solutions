@@ -104,3 +104,5 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* set-alarm: https://www.codewars.com/kata/568dcc3c7f12767a62000038
 	* switch-it-up: https://www.codewars.com/kata/5808dcb8f0ed42ae34000031
 	* basic-variable-assignment: https://www.codewars.com/kata/50ee6b0bdeab583673000025/
+	* total-amount-of-points: https://www.codewars.com/kata/5bb904724c47249b10000131
+	* third-angle-of-a-triangle: https://www.codewars.com/kata/5a023c426975981341000014
