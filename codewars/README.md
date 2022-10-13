@@ -2,6 +2,8 @@
 
 Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 
+If you're looking for a specific kata, it's recommended to go by the url.
+
 * 4 kyu 
 	* (WIP) human-readable-duration-format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
 	* (TODO) matrix-determinant: https://www.codewars.com/kata/52a382ee44408cea2500074c
@@ -106,3 +108,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 	* basic-variable-assignment: https://www.codewars.com/kata/50ee6b0bdeab583673000025/
 	* total-amount-of-points: https://www.codewars.com/kata/5bb904724c47249b10000131
 	* third-angle-of-a-triangle: https://www.codewars.com/kata/5a023c426975981341000014
+	* all-star-code-challenge-18: https://www.codewars.com/kata/5865918c6b569962950002a1
+	* i-love-you: https://www.codewars.com/kata/57f24e6a18e9fad8eb000296
+	* difference-of-volumes-of-cuboids: https://www.codewars.com/kata/58cb43f4256836ed95000f97
+	* sum-arrays: https://www.codewars.com/kata/53dc54212259ed3d4f00071c
