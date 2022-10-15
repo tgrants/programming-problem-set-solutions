@@ -31,6 +31,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* is-this-a-triangle: https://www.codewars.com/kata/56606694ec01347ce800001b
 	* bug-in-apple: https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9
 	* shortest-word: https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+	* sorted-yes-no-how: https://www.codewars.com/kata/580a4734d6df748060000045
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -112,3 +113,6 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* i-love-you: https://www.codewars.com/kata/57f24e6a18e9fad8eb000296
 	* difference-of-volumes-of-cuboids: https://www.codewars.com/kata/58cb43f4256836ed95000f97
 	* sum-arrays: https://www.codewars.com/kata/53dc54212259ed3d4f00071c
+	* correct-the-mistakes-of-the-character-recognition-software: https://www.codewars.com/kata/577bd026df78c19bca0002c0
+	* alan-partridge-ii-apple-turnover: https://www.codewars.com/kata/580a094553bd9ec5d800007d
+	* exclusive-or-logical-operator: https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c
