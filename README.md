@@ -38,6 +38,12 @@ Newer code is more likely to have better practices.
 
 ## My stats
 
+<!-- stats begin -->
+Site name | Problems | Points | Rank | Percentile
+--- | --- | --- | --- | ---
+Codewars | 107 | 302 | 134365 | N/A
+<!-- stats end -->
+
 under construction
 
 ## Usage

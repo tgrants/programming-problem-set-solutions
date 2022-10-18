@@ -1,4 +1,6 @@
 #!/bin/bash
-for d in ./clevercode ./codewars ./hackerrank ./leetcode; do
+
+# Deletes all executables (files with no extensions) from directories
+for d in ./clevercode ./codeforces ./codewars ./hackerrank ./leetcode; do
 	find $d -type f ! -name "*.*" -delete
 done
