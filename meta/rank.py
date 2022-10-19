@@ -5,9 +5,9 @@
 
 import requests
 import sys
+from datetime import date
 from bs4 import BeautifulSoup as bs
 
-# Work-in-progress
 
 class site_stats():
 	name = problems = points = rank = percentile = "N/A"
@@ -34,38 +34,64 @@ def fetch_stats(url):
 
 
 if __name__ == "__main__":
+	today = date.today()
+	site_list = {"Clevercode" : True, "Codewars" : True}
+
 	# Parse arguments
-	update_readme = True
+	for arg in sys.argv:
+		if arg == "--prompt":
+			for site in site_list:
+				ans = input("Get stats for {}? (Y/n) ".format(site))
+				if ans == 'n' or ans == 'N': site_list[site] = False
+		elif arg == "--export":
+			pass
 
 	site_stat_list = []
 
-	# Clevercode
-	# soup_clevercode = fetch_stats("https://clevercode.lv/statistics")
-	pass
+	### Clevercode
+	if site_list.get("Clevercode"):
+		clevercode_stats = site_stats("Clevercode")
+		soup_clevercode = fetch_stats("https://clevercode.lv/statistics")
+		# soup_clevercode_table = soup_clevercode.find("table", class_="table table-striped")
+		soup_clevercode_a = soup_clevercode.find(lambda tag:tag.name=="a" and "Scheibenwischer" in tag.text)
 
-	# Codeforces
+		# print(soup_clevercode_a.parent.parent)
+		# clevercode_stats.problems = soup_clevercode_table.find("th", string="Atrisinātie uzdevumi").parent.contents[3].text
+		# clevercode_stats.points = soup_clevercode_table.find("th", string="Punkti").parent.contents[3].text
+		# TODO: rank
+		# TODO: percentile
+
+		site_stat_list.append(clevercode_stats)
+
+	### Codeforces
 	# Use API
 	# https://codeforces.com/api/user.rating?handle={}
 	pass
 
-	# Codewars
-	codewars_stats = site_stats("Codewars")
-	codewars_json = requests.get("https://www.codewars.com/api/v1/users/{}".format("Scheibenwischer")).json()
-	codewars_stats.problems = codewars_json.get("codeChallenges").get("totalCompleted")
-	codewars_stats.points = codewars_json.get("ranks").get("overall").get("score")
-	codewars_stats.rank = codewars_json.get("leaderboardPosition")
-	# codewars_stats.percentile =
-	site_stat_list.append(codewars_stats)
+	### Codewars
+	if site_list.get("Codewars"):
+		codewars_stats = site_stats("Codewars")
+		codewars_json = requests.get("https://www.codewars.com/api/v1/users/{}".format("Scheibenwischer")).json()
+		codewars_stats.problems = codewars_json.get("codeChallenges").get("totalCompleted")
+		codewars_stats.points = codewars_json.get("ranks").get("overall").get("score")
+		codewars_stats.rank = codewars_json.get("leaderboardPosition")
 
-	# Hackerrank
+		# No honor percentile in the API, need to use soup
+		soup_codewars = fetch_stats("https://www.codewars.com/users/{}".format("Scheibenwischer"))
+		soup_codewars_b = soup_codewars.find("b", string="Honor Percentile:")
+		codewars_stats.percentile = soup_codewars_b.parent.contents[1]
+
+		site_stat_list.append(codewars_stats)
+
+	### Hackerrank
 	# No easy way to access rank
 	pass
 
-	# Leetcode
+	### Leetcode
 	# soup_leetcode = fetch_stats("https://leetcode.com/{}/".format("Scheibenwischer"))
 	pass
 
-	# Update README
+	### Update README
 	with open(sys.path[0] + "/../README.md", "r") as readme_file:
 		lines = readme_file.readlines()
 	with open(sys.path[0] + "/../README.md", "w") as readme_file:
@@ -81,3 +107,4 @@ if __name__ == "__main__":
 				readme_file.write("--- | --- | --- | --- | ---\n")
 				for item in site_stat_list:
 					readme_file.write(item.to_column() + "\n")
+				readme_file.write("\nLast updated: {}\n".format(today.strftime("%Y-%m-%d")))

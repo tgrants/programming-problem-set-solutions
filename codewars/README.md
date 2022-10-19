@@ -116,3 +116,4 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* correct-the-mistakes-of-the-character-recognition-software: https://www.codewars.com/kata/577bd026df78c19bca0002c0
 	* alan-partridge-ii-apple-turnover: https://www.codewars.com/kata/580a094553bd9ec5d800007d
 	* exclusive-or-logical-operator: https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c
+	* adults-only: https://www.codewars.com/kata/590a95eede09f87472000213

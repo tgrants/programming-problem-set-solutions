@@ -41,10 +41,11 @@ Newer code is more likely to have better practices.
 <!-- stats begin -->
 Site name | Problems | Points | Rank | Percentile
 --- | --- | --- | --- | ---
-Codewars | 107 | 302 | 134365 | N/A
-<!-- stats end -->
+Clevercode | N/A | N/A | N/A | N/A
+Codewars | 108 | 304 | 133161 | Top 28.503%
 
-under construction
+Last updated: 2022-10-19
+<!-- stats end -->
 
 ## Usage
 
