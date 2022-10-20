@@ -117,3 +117,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* alan-partridge-ii-apple-turnover: https://www.codewars.com/kata/580a094553bd9ec5d800007d
 	* exclusive-or-logical-operator: https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c
 	* adults-only: https://www.codewars.com/kata/590a95eede09f87472000213
+	* find-all-active-students: https://www.codewars.com/kata/5809b9ef88b750ab180001ec
+	* sql-grasshopper-select-columns: https://www.codewars.com/kata/582365c18917435ab3000020
+	* whats-the-real-floor: https://www.codewars.com/kata/574b3b1599d8f897470018f6
+	* easy-sql-ordering: https://www.codewars.com/kata/593ed37c93350098d600001d
+	* simple-where-and-order-by: https://www.codewars.com/kata/5809508cc47d327c12000084
