@@ -122,3 +122,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* whats-the-real-floor: https://www.codewars.com/kata/574b3b1599d8f897470018f6
 	* easy-sql-ordering: https://www.codewars.com/kata/593ed37c93350098d600001d
 	* simple-where-and-order-by: https://www.codewars.com/kata/5809508cc47d327c12000084
+	* makeuppercase: https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7
+	* pythagorean-triple: https://www.codewars.com/kata/5951d30ce99cf2467e000013
+	* parse-nice-int-from-char-problem: https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1
+	* jennys-secret-message: https://www.codewars.com/kata/55225023e1be1ec8bc000390
