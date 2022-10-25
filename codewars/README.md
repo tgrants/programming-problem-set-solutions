@@ -126,3 +126,4 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* pythagorean-triple: https://www.codewars.com/kata/5951d30ce99cf2467e000013
 	* parse-nice-int-from-char-problem: https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1
 	* jennys-secret-message: https://www.codewars.com/kata/55225023e1be1ec8bc000390
+	* count-of-positives-sum-of-negatives: https://www.codewars.com/kata/576bb71bbbcf0951d5000044
