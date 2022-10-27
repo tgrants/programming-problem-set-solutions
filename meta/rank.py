@@ -36,6 +36,7 @@ def fetch_stats(url):
 if __name__ == "__main__":
 	today = date.today()
 	site_list = {"Clevercode" : True, "Codewars" : True}
+	update_readme = True
 
 	# Parse arguments
 	for arg in sys.argv:
@@ -45,6 +46,8 @@ if __name__ == "__main__":
 				if ans == 'n' or ans == 'N': site_list[site] = False
 		elif arg == "--export":
 			pass
+		elif arg == "--noupdate":
+			update_readme = False
 
 	site_stat_list = []
 
@@ -52,20 +55,19 @@ if __name__ == "__main__":
 	if site_list.get("Clevercode"):
 		clevercode_stats = site_stats("Clevercode")
 		soup_clevercode = fetch_stats("https://clevercode.lv/statistics")
-		# soup_clevercode_table = soup_clevercode.find("table", class_="table table-striped")
+		soup_clevercode_table = soup_clevercode.find("table", class_="table table-striped").contents[5]
 		soup_clevercode_a = soup_clevercode.find(lambda tag:tag.name=="a" and "Scheibenwischer" in tag.text)
 
-		# print(soup_clevercode_a.parent.parent)
-		# clevercode_stats.problems = soup_clevercode_table.find("th", string="Atrisinātie uzdevumi").parent.contents[3].text
-		# clevercode_stats.points = soup_clevercode_table.find("th", string="Punkti").parent.contents[3].text
-		# TODO: rank
-		# TODO: percentile
+		clevercode_stats.problems = soup_clevercode_a.parent.parent.contents[9].text
+		clevercode_stats.points = soup_clevercode_a.parent.parent.contents[13].text
+		clevercode_stats.rank = soup_clevercode_a.parent.parent.contents[1].text
+		total_users = int(soup_clevercode_table.contents[-2].contents[1].text)
+		clevercode_stats.percentile = "Top " + str(round((total_users - int(clevercode_stats.rank)) / total_users, 3)) + "%"
 
 		site_stat_list.append(clevercode_stats)
 
 	### Codeforces
-	# Use API
-	# https://codeforces.com/api/user.rating?handle={}
+	# API: https://codeforces.com/api/user.rating?handle={}
 	pass
 
 	### Codewars
@@ -92,19 +94,20 @@ if __name__ == "__main__":
 	pass
 
 	### Update README
-	with open(sys.path[0] + "/../README.md", "r") as readme_file:
-		lines = readme_file.readlines()
-	with open(sys.path[0] + "/../README.md", "w") as readme_file:
-		delete_lines = False
-		for line in lines:
-			if line.strip("\n") == "<!-- stats end -->":
-				delete_lines = False	
-			if not delete_lines:
-				readme_file.write(line)
-			if line.strip("\n") == "<!-- stats begin -->":
-				delete_lines = True
-				readme_file.write("Site name | Problems | Points | Rank | Percentile\n")
-				readme_file.write("--- | --- | --- | --- | ---\n")
-				for item in site_stat_list:
-					readme_file.write(item.to_column() + "\n")
-				readme_file.write("\nLast updated: {}\n".format(today.strftime("%Y-%m-%d")))
+	if update_readme:
+		with open(sys.path[0] + "/../README.md", "r") as readme_file:
+			lines = readme_file.readlines()
+		with open(sys.path[0] + "/../README.md", "w") as readme_file:
+			delete_lines = False
+			for line in lines:
+				if line.strip("\n") == "<!-- stats end -->":
+					delete_lines = False	
+				if not delete_lines:
+					readme_file.write(line)
+				if line.strip("\n") == "<!-- stats begin -->":
+					delete_lines = True
+					readme_file.write("Site name | Problems | Points | Rank | Percentile\n")
+					readme_file.write("--- | --- | --- | --- | ---\n")
+					for item in site_stat_list:
+						readme_file.write(item.to_column() + "\n")
+					readme_file.write("\nLast updated: {}\n".format(today.strftime("%Y-%m-%d")))
