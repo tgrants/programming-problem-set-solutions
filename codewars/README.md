@@ -131,3 +131,5 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sum-the-strings: https://www.codewars.com/kata/5966e33c4e686b508700002d
 	* sql-basics-simple-sum: https://www.codewars.com/kata/58110da0009b4f7ef80000ad
 	* sql-basics-mod: https://www.codewars.com/kata/594a9592704e4d21bc000131
+	* holiday-viii-duty-free: https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
+	* calculate-bmi: https://www.codewars.com/kata/57a429e253ba3381850000fb
