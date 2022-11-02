@@ -133,3 +133,4 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-mod: https://www.codewars.com/kata/594a9592704e4d21bc000131
 	* holiday-viii-duty-free: https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
 	* calculate-bmi: https://www.codewars.com/kata/57a429e253ba3381850000fb
+	* count-the-monkeys: https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
