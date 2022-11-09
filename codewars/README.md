@@ -135,3 +135,5 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* calculate-bmi: https://www.codewars.com/kata/57a429e253ba3381850000fb
 	* count-the-monkeys: https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 	* sum-without-highest-and-lowest-number: https://www.codewars.com/kata/576b93db1129fcf2200001e6
+	* geometry-basics-distance-between-points-in-2d: https://www.codewars.com/kata/58dced7b702b805b200000be
+	* alternating-case: https://www.codewars.com/kata/56efc695740d30f963000557
