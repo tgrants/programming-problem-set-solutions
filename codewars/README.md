@@ -137,3 +137,5 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sum-without-highest-and-lowest-number: https://www.codewars.com/kata/576b93db1129fcf2200001e6
 	* geometry-basics-distance-between-points-in-2d: https://www.codewars.com/kata/58dced7b702b805b200000be
 	* alternating-case: https://www.codewars.com/kata/56efc695740d30f963000557
+	* the-falling-speed-of-petals: https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b
+	* area-or-perimeter: https://www.codewars.com/kata/5ab6538b379d20ad880000ab
