@@ -1,7 +1,7 @@
 # Programming problem set solutions
 
-My solutions of various programming problems. While correct, they are not guaranteed to be the best.
-Newer code is more likely to have better practices.
+My solutions for various programming problems. While correct, they are not guaranteed to be the best.
+Newer code is more likely to use better practices.
 
 <a title="CleverCode" href="https://clevercode.lv/statistics/Scheibenwischer">
 	<img src="https://img.shields.io/badge/clevercode-Scheibenwischer-red?style=flat-square&color=333333&labelColor=5C97CB"/>
@@ -42,10 +42,10 @@ Newer code is more likely to have better practices.
 <!-- stats begin -->
 Site name | Problems | Points | Rank | Percentile
 --- | --- | --- | --- | ---
-Clevercode | 88 | 305 | 81 | Top 0.964%
-Codewars | 121 | 330 | 118951 | Top 25.312%
+Clevercode | 88 | 305 | 81 | Top 0.965%
+Codewars | 133 | 354 | 109889 | Top 22.984%
 
-Last updated: 2022-10-27
+Last updated: 2022-11-18
 <!-- stats end -->
 
 ## Usage
@@ -56,7 +56,7 @@ This repository also contains some useful scrips:
 * `clear.sh` - removes all executables
 * `clear-all.sh` - removes all solutions
 * `clevercode.py` - pulls and processes data from clevercode.lv
-* `rank.py` - gets user statistics from cometitive programming sites
+* `rank.py` - gets user statistics from competitive programming sites
 
 ## Contributing
 

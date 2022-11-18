@@ -139,3 +139,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* alternating-case: https://www.codewars.com/kata/56efc695740d30f963000557
 	* the-falling-speed-of-petals: https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b
 	* area-or-perimeter: https://www.codewars.com/kata/5ab6538b379d20ad880000ab
+	* grasshopper-basic-function-fixer: https://www.codewars.com/kata/56200d610758762fb0000002
+	* grasshopper-messi-goals: https://www.codewars.com/kata/55ca77fa094a2af31f00002a
+	* super-duper-easy: https://www.codewars.com/kata/55a5bfaa756cfede78000026
+	* find-the-remainder: https://www.codewars.com/kata/524f5125ad9c12894e00003f
