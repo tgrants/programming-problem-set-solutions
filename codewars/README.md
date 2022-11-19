@@ -143,3 +143,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* grasshopper-messi-goals: https://www.codewars.com/kata/55ca77fa094a2af31f00002a
 	* super-duper-easy: https://www.codewars.com/kata/55a5bfaa756cfede78000026
 	* find-the-remainder: https://www.codewars.com/kata/524f5125ad9c12894e00003f
+	* string-templates-bug-fixing: https://www.codewars.com/kata/55c90cad4b0fe31a7200001f
+	* pre-fizzbuzz-workout-1: https://www.codewars.com/kata/569e09850a8e371ab200000b
+	* byte-me: https://www.codewars.com/kata/636f26f52aae8fcf3fa35819
+	* is-it-a-palindrome: https://www.codewars.com/kata/57a1fd2ce298a731b20006a4

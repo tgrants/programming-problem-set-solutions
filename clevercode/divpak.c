@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    long long a;
+	long long a;
 	int i = 0;
-    scanf("%lli", &a);
-    while (a) {
+	scanf("%lli", &a);
+	while (a) {
 		if (a % 2)
 			printf("%d ", i);
-        a /= 2;
-        i++;
-    }
+		a /= 2;
+		i++;
+	}
 }

@@ -42,10 +42,10 @@ Newer code is more likely to use better practices.
 <!-- stats begin -->
 Site name | Problems | Points | Rank | Percentile
 --- | --- | --- | --- | ---
-Clevercode | 88 | 305 | 81 | Top 0.965%
-Codewars | 133 | 354 | 109889 | Top 22.984%
+Clevercode | 89 | 310 | 79 | Top 0.966%
+Codewars | 137 | 362 | 106440 | Top 22.255%
 
-Last updated: 2022-11-18
+Last updated: 2022-11-19
 <!-- stats end -->
 
 ## Usage

@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int m, n, p = 0;
-    scanf("%d %d", &m, &n);
-    while (1) {
+	int m, n, p = 0;
+	scanf("%d %d", &m, &n);
+	while (1) {
 		m--;
 		if(m > 0)
 			p++;
@@ -14,6 +14,6 @@ int main() {
 			p++;
 		else
 			break;
-    }
-    printf("%d", p);
+	}
+	printf("%d", p);
 }
