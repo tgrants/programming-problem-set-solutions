@@ -147,3 +147,5 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* pre-fizzbuzz-workout-1: https://www.codewars.com/kata/569e09850a8e371ab200000b
 	* byte-me: https://www.codewars.com/kata/636f26f52aae8fcf3fa35819
 	* is-it-a-palindrome: https://www.codewars.com/kata/57a1fd2ce298a731b20006a4
+	* return-to-sanity: https://www.codewars.com/kata/514a7ac1a33775cbb500001e
+	* return-the-day: https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
