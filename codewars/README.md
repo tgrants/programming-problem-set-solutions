@@ -149,3 +149,4 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* is-it-a-palindrome: https://www.codewars.com/kata/57a1fd2ce298a731b20006a4
 	* return-to-sanity: https://www.codewars.com/kata/514a7ac1a33775cbb500001e
 	* return-the-day: https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
+	* grasshopper-messi-goals-function: https://www.codewars.com/kata/55f73be6e12baaa5900000d4
