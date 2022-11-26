@@ -150,3 +150,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* return-to-sanity: https://www.codewars.com/kata/514a7ac1a33775cbb500001e
 	* return-the-day: https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
 	* grasshopper-messi-goals-function: https://www.codewars.com/kata/55f73be6e12baaa5900000d4
+	* grasshopper-debug-sayhello: https://www.codewars.com/kata/5625618b1fe21ab49f00001f
+	* my-head-is-at-the-wrong-end: https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
+	* squaring-an-argument: https://www.codewars.com/kata/523b623152af8a30c6000027
+	* playing-with-cubes-i: https://www.codewars.com/kata/55c0a79e20be94c91400014b
