@@ -154,3 +154,6 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* my-head-is-at-the-wrong-end: https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
 	* squaring-an-argument: https://www.codewars.com/kata/523b623152af8a30c6000027
 	* playing-with-cubes-i: https://www.codewars.com/kata/55c0a79e20be94c91400014b
+	* return-location: https://www.codewars.com/kata/57f037927b45ef77b3000260
+	* finish-guess-the-number-game: https://www.codewars.com/kata/568018a64f35f0c613000054
+	* if-else-and-ternary-operator: https://www.codewars.com/kata/57202aefe8d6c514300001fd
