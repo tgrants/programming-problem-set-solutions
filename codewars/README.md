@@ -157,3 +157,6 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* return-location: https://www.codewars.com/kata/57f037927b45ef77b3000260
 	* finish-guess-the-number-game: https://www.codewars.com/kata/568018a64f35f0c613000054
 	* if-else-and-ternary-operator: https://www.codewars.com/kata/57202aefe8d6c514300001fd
+	* no-loops-2-you-only-need-one: https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
+	* grasshopper-debug: https://www.codewars.com/kata/55cb854deb36f11f130000e1
+	* switch-case-bug-fixing-6: https://www.codewars.com/kata/55c933c115a8c426ac000082
