@@ -160,3 +160,5 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* no-loops-2-you-only-need-one: https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
 	* grasshopper-debug: https://www.codewars.com/kata/55cb854deb36f11f130000e1
 	* switch-case-bug-fixing-6: https://www.codewars.com/kata/55c933c115a8c426ac000082
+	* swap-values: https://www.codewars.com/kata/5388f0e00b24c5635e000fc6
+	* find-the-integral: https://www.codewars.com/kata/59811fd8a070625d4c000013
