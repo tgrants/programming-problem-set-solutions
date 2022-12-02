@@ -162,3 +162,6 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* switch-case-bug-fixing-6: https://www.codewars.com/kata/55c933c115a8c426ac000082
 	* swap-values: https://www.codewars.com/kata/5388f0e00b24c5635e000fc6
 	* find-the-integral: https://www.codewars.com/kata/59811fd8a070625d4c000013
+	* cat-years-dog-years: https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
+	* price-of-mangoes: https://www.codewars.com/kata/57a77726bb9944d000000b06
+	* localize-the-barycenter-of-a-triangle: https://www.codewars.com/kata/5601c5f6ba804403c7000004
