@@ -165,3 +165,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* cat-years-dog-years: https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 	* price-of-mangoes: https://www.codewars.com/kata/57a77726bb9944d000000b06
 	* localize-the-barycenter-of-a-triangle: https://www.codewars.com/kata/5601c5f6ba804403c7000004
+	* convert-string-to-a-number: https://www.codewars.com/kata/544675c6f971f7399a000e79
+	* remove-exclamation-marks: https://www.codewars.com/kata/57a0885cbb9944e24c00008e
+	* convert-number-to-a-string: https://www.codewars.com/kata/5265326f5fda8eb1160004c8
+	* get-the-mean-of-an-array: https://www.codewars.com/kata/563e320cee5dddcf77000158
+	* grasshopper-check-for-factor: https://www.codewars.com/kata/55cbc3586671f6aa070000fb
