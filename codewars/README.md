@@ -170,3 +170,6 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* convert-number-to-a-string: https://www.codewars.com/kata/5265326f5fda8eb1160004c8
 	* get-the-mean-of-an-array: https://www.codewars.com/kata/563e320cee5dddcf77000158
 	* grasshopper-check-for-factor: https://www.codewars.com/kata/55cbc3586671f6aa070000fb
+	* area-of-a-square: https://www.codewars.com/kata/5748838ce2fab90b86001b1a
+	* floating-point-comparison: https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8
+	* count-the-number-of-cubes-with-paint-on: https://www.codewars.com/kata/5763bb0af716cad8fb000580
