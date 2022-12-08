@@ -5,7 +5,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 If you're looking for a specific kata, it's recommended to go by the url.
 
 * 4 kyu 
-	* (WIP) human-readable-duration-format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
+	* human-readable-duration-format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
 	* (TODO) matrix-determinant: https://www.codewars.com/kata/52a382ee44408cea2500074c
 * 5 kyu
 	* rot13: https://www.codewars.com/kata/530e15517bc88ac656000716
@@ -17,6 +17,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* unique-in-order: https://www.codewars.com/kata/54e6533c92449cc251001667
 	* mexican-wave: https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
 	* take-a-ten-minutes-walk: https://www.codewars.com/kata/54da539698b8a2ad76000228
+	* who-likes-it: https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -32,6 +33,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* bug-in-apple: https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9
 	* shortest-word: https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 	* sorted-yes-no-how: https://www.codewars.com/kata/580a4734d6df748060000045
+	* upper-body-strength: https://www.codewars.com/kata/571640812ad763313600132b
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -173,3 +175,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* area-of-a-square: https://www.codewars.com/kata/5748838ce2fab90b86001b1a
 	* floating-point-comparison: https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8
 	* count-the-number-of-cubes-with-paint-on: https://www.codewars.com/kata/5763bb0af716cad8fb000580
+
+## Beta
+
+* 8kyu
+	* casting-binary-float-to-integer: https://www.codewars.com/kata/5f1804560873b20023e8244a
