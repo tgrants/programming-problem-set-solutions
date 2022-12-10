@@ -175,6 +175,11 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* area-of-a-square: https://www.codewars.com/kata/5748838ce2fab90b86001b1a
 	* floating-point-comparison: https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8
 	* count-the-number-of-cubes-with-paint-on: https://www.codewars.com/kata/5763bb0af716cad8fb000580
+	* rock-paper-scrissors: https://www.codewars.com/kata/5672a98bdbdd995fad00000f
+	* array-plus-array: https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
+	* are-they-opposite: https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7
+	* exclamation-mark-series-11: https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed
+	* miles-per-gallon-to-kilometers-per-liter: https://www.codewars.com/kata/557b5e0bddf29d861400005d
 
 ## Beta
 
