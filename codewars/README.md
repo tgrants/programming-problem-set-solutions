@@ -180,6 +180,11 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* are-they-opposite: https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7
 	* exclamation-mark-series-11: https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed
 	* miles-per-gallon-to-kilometers-per-liter: https://www.codewars.com/kata/557b5e0bddf29d861400005d
+	* sum-of-differences-in-array: https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
+	* reversed-sequence: https://www.codewars.com/kata/5a00e05cc374cb34d100000d
+	* determine-offspring-sex: https://www.codewars.com/kata/56530b444e831334c0000020
+	* if-you-cant-sleep-just-count-sheep: https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
+	* transportation-on-vacation: https://www.codewars.com/kata/568d0dd208ee69389d000016
 
 ## Beta
 
