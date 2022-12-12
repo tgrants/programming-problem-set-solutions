@@ -185,6 +185,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* determine-offspring-sex: https://www.codewars.com/kata/56530b444e831334c0000020
 	* if-you-cant-sleep-just-count-sheep: https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
 	* transportation-on-vacation: https://www.codewars.com/kata/568d0dd208ee69389d000016
+	* grasshopper-terminal-game-move-function: https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
+	* (WIP) sort-and-star: https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
+	* is-it-a-number: https://www.codewars.com/kata/57126304cdbf63c6770012bd
 
 ## Beta
 
