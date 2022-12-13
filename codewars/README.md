@@ -188,6 +188,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* grasshopper-terminal-game-move-function: https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
 	* (WIP) sort-and-star: https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
 	* is-it-a-number: https://www.codewars.com/kata/57126304cdbf63c6770012bd
+	* seats-in-theater: https://www.codewars.com/kata/588417e576933b0ec9000045
+	* lario-and-muigi-pipe-problem: https://www.codewars.com/kata/56b29582461215098d00000f
 
 ## Beta
 
