@@ -186,10 +186,14 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* if-you-cant-sleep-just-count-sheep: https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
 	* transportation-on-vacation: https://www.codewars.com/kata/568d0dd208ee69389d000016
 	* grasshopper-terminal-game-move-function: https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
-	* (WIP) sort-and-star: https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
+	* sort-and-star: https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
 	* is-it-a-number: https://www.codewars.com/kata/57126304cdbf63c6770012bd
 	* seats-in-theater: https://www.codewars.com/kata/588417e576933b0ec9000045
 	* lario-and-muigi-pipe-problem: https://www.codewars.com/kata/56b29582461215098d00000f
+	* for-twins-2-math-operations: https://www.codewars.com/kata/59c287b16bddd291c700009a
+	* convert-number-to-reversed-array-of-digits: https://www.codewars.com/kata/5583090cbe83f4fd8c000051
+	* expressions-matter: https://www.codewars.com/kata/5ae62fcf252e66d44d00008e
+	* wilson-primes: https://www.codewars.com/kata/55dc4520094bbaf50e0000cb
 
 ## Beta
 
