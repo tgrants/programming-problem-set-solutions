@@ -194,6 +194,11 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* convert-number-to-reversed-array-of-digits: https://www.codewars.com/kata/5583090cbe83f4fd8c000051
 	* expressions-matter: https://www.codewars.com/kata/5ae62fcf252e66d44d00008e
 	* wilson-primes: https://www.codewars.com/kata/55dc4520094bbaf50e0000cb
+	* evil-or-odious: https://www.codewars.com/kata/56fcfad9c7e1fa2472000034
+	* coefficients-of-the-quadratic-equation: https://www.codewars.com/kata/5d59576768ba810001f1f8d6
+	* reversed-words: https://www.codewars.com/kata/51c8991dee245d7ddf00000e
+	* pole-vault-starting-marks: https://www.codewars.com/kata/5786f8404c4709148f0006bf
+	* points-of-reflection: https://www.codewars.com/kata/57bfea4cb19505912900012c
 
 ## Beta
 

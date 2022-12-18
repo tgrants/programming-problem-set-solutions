@@ -110,4 +110,4 @@ if __name__ == "__main__":
 					readme_file.write("--- | --- | --- | --- | ---\n")
 					for item in site_stat_list:
 						readme_file.write(item.to_column() + "\n")
-					readme_file.write("\nLast updated: {}\n".format(today.strftime("%Y-%m-%d")))
+					readme_file.write("\nLast update: {}\n".format(today.strftime("%Y-%m-%d")))
