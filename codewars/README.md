@@ -34,6 +34,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* shortest-word: https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 	* sorted-yes-no-how: https://www.codewars.com/kata/580a4734d6df748060000045
 	* upper-body-strength: https://www.codewars.com/kata/571640812ad763313600132b
+	* square-every-digit: https://www.codewars.com/kata/546e2562b03326a88e000020
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -199,6 +200,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* reversed-words: https://www.codewars.com/kata/51c8991dee245d7ddf00000e
 	* pole-vault-starting-marks: https://www.codewars.com/kata/5786f8404c4709148f0006bf
 	* points-of-reflection: https://www.codewars.com/kata/57bfea4cb19505912900012c
+	* grasshopper-if-else-syntax-debug: https://www.codewars.com/kata/57089707fe2d01529f00024a
 
 ## Beta
 
