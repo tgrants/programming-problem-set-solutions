@@ -92,7 +92,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* dna-to-rna-conversion: https://www.codewars.com/kata/5556282156230d0e5e000089
 	* find-the-smallest-integer-in-the-array: https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 	* century-from-year: https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
-	* convert-a-bool-to-a-string: https://www.codewars.com/kata/551b4501ac0447318f0009cd
+	* convert-a-boolean-to-a-string: https://www.codewars.com/kata/551b4501ac0447318f0009cd
 	* hex-to-decimal: https://www.codewars.com/kata/57a4d500e298a7952100035d
 	* cockroach: https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
 	* counting-sheep: https://www.codewars.com/kata/54edbc7200b811e956000556
@@ -201,6 +201,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* pole-vault-starting-marks: https://www.codewars.com/kata/5786f8404c4709148f0006bf
 	* points-of-reflection: https://www.codewars.com/kata/57bfea4cb19505912900012c
 	* grasshopper-if-else-syntax-debug: https://www.codewars.com/kata/57089707fe2d01529f00024a
+	* how-many-lightsabers-do-you-own: https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
 
 ## Beta
 
