@@ -74,7 +74,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* the-feast-of-many-beasts: https://www.codewars.com/kata/5aa736a455f906981800360d
 	* personalised-message: https://www.codewars.com/kata/5772da22b89313a4d50012f7
 	* you-only-need-one: https://www.codewars.com/kata/57cc975ed542d3148f00015b
-	* clock: https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
+	* beginner-series-clock: https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
 	* even-or-odd: https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
 	* get-character-from-ascii-value: https://www.codewars.com/kata/55ad04714f0b468e8200001c
 	* string-repeat: https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
