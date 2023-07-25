@@ -202,6 +202,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* points-of-reflection: https://www.codewars.com/kata/57bfea4cb19505912900012c
 	* grasshopper-if-else-syntax-debug: https://www.codewars.com/kata/57089707fe2d01529f00024a
 	* how-many-lightsabers-do-you-own: https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
+	* sql-basics-simple-min-max: https://www.codewars.com/kata/581113dce10b531b1d0000bd
+	* sql-basics-simple-distinct: https://www.codewars.com/kata/58111670e10b53be31000108
+	* on-the-canadian-border: https://www.codewars.com/kata/590ba881fe13cfdcc20001b4
 
 ## Beta
 
