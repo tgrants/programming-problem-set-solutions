@@ -66,7 +66,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* grasshopper-summation: https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 	* get-planet-name-by-id: https://www.codewars.com/kata/515e188a311df01cba000003
 	* do-i-get-a-bonus: https://www.codewars.com/kata/56f6ad906b88de513f000d96
-	* substract-the-sum: https://www.codewars.com/kata/56c5847f27be2c3db20009c3
+	* never-visit-a: https://www.codewars.com/kata/56c5847f27be2c3db20009c3
 	* is-it-even: https://www.codewars.com/kata/555a67db74814aa4ee0001b5
 	* you-cant-code-under-pressure: https://www.codewars.com/kata/53ee5429ba190077850011d4
 	* convert-boolean-values-to-strings-yes-or-no: https://www.codewars.com/kata/53369039d7ab3ac506000467
@@ -205,6 +205,12 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-simple-min-max: https://www.codewars.com/kata/581113dce10b531b1d0000bd
 	* sql-basics-simple-distinct: https://www.codewars.com/kata/58111670e10b53be31000108
 	* on-the-canadian-border: https://www.codewars.com/kata/590ba881fe13cfdcc20001b4
+	* register-for-the-party: https://www.codewars.com/kata/590cc86f7557c0494000007e
+	* easy-sql-lowercase: https://www.codewars.com/kata/594800ba6fb152624300006d
+	* easy-sql-square-root-and-log: https://www.codewars.com/kata/594a691720ac16a544000075
+	* easy-sql-rounding-decimals: https://www.codewars.com/kata/594a6133704e4daf5d00003d
+	* easy-sql-convert-to-hexadecimal: https://www.codewars.com/kata/594a50bafd3b7031c1000013
+	* collect-tutition: https://www.codewars.com/kata/5910b0d378cc2ba91400000b
 
 ## Beta
 

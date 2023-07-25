@@ -1,0 +1,1 @@
+SELECT 'apple' res FROM sub_sum
