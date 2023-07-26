@@ -211,6 +211,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* easy-sql-rounding-decimals: https://www.codewars.com/kata/594a6133704e4daf5d00003d
 	* easy-sql-convert-to-hexadecimal: https://www.codewars.com/kata/594a50bafd3b7031c1000013
 	* collect-tutition: https://www.codewars.com/kata/5910b0d378cc2ba91400000b
+	* quadrants: https://www.codewars.com/kata/643af0fa9fa6c406b47c5399
 
 ## Beta
 
