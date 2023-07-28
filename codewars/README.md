@@ -35,6 +35,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sorted-yes-no-how: https://www.codewars.com/kata/580a4734d6df748060000045
 	* upper-body-strength: https://www.codewars.com/kata/571640812ad763313600132b
 	* square-every-digit: https://www.codewars.com/kata/546e2562b03326a88e000020
+	* quadrants-2-segments: https://www.codewars.com/kata/643ea1adef815316e5389d17
+	* valid-parentheses: https://www.codewars.com/kata/6411b91a5e71b915d237332d
+	* get-the-middle-character: https://www.codewars.com/kata/56747fd5cb988479af000028
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -212,6 +215,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* easy-sql-convert-to-hexadecimal: https://www.codewars.com/kata/594a50bafd3b7031c1000013
 	* collect-tutition: https://www.codewars.com/kata/5910b0d378cc2ba91400000b
 	* quadrants: https://www.codewars.com/kata/643af0fa9fa6c406b47c5399
+	* find-out-whether-the-shape-is-a-cube: https://www.codewars.com/kata/58d248c7012397a81800005c
 
 ## Beta
 

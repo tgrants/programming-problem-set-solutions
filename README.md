@@ -25,11 +25,12 @@ Newer code is more likely to use better practices.
 * [Codeforces](https://codeforces.com/) +
 * [Codewars](https://www.codewars.com/) +
 	* Most 8 kyu C++ problems
+	* Some 7 kyu C++ problems
 * [HackerRank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com/)
-* misc - problems from other sources
-* meta - scripts for maintaining this repository
-* tools - useful code snippets
+* misc - problems from other sources and other files
+* tools - scripts for maintaining this repository
+* algorithms - useful code snippets
 
 ### Other sites
 
@@ -44,9 +45,9 @@ Newer code is more likely to use better practices.
 Site name | Problems | Points | Rank | Percentile
 --- | --- | --- | --- | ---
 Clevercode | 89 | 310 | 82 | Top 0.966%
-Codewars | 204 | 555 | 75173 | Top 13.394%
+Codewars | 209 | 568 | 73154 | Top 13.017%
 
-Last update: 2023-07-26
+Last update: 2023-07-28
 <!-- stats end -->
 
 ## Usage
