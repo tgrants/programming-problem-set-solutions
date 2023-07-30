@@ -18,6 +18,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* mexican-wave: https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
 	* take-a-ten-minutes-walk: https://www.codewars.com/kata/54da539698b8a2ad76000228
 	* who-likes-it: https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+	* create-phone-number: https://www.codewars.com/kata/525f50e3b73515a6db000b83
+	* find-the-odd-int: https://www.codewars.com/kata/54da5a58ea159efa38000836
+	* sum-of-digits-digital-root: https://www.codewars.com/kata/541c8630095125aba6000c00
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
