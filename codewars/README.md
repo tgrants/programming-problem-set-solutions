@@ -4,7 +4,7 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 
 If you're looking for a specific kata, it's recommended to go by the url.
 
-* 4 kyu 
+* 4 kyu
 	* human-readable-duration-format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
 	* (TODO) matrix-determinant: https://www.codewars.com/kata/52a382ee44408cea2500074c
 * 5 kyu
@@ -38,6 +38,12 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* quadrants-2-segments: https://www.codewars.com/kata/643ea1adef815316e5389d17
 	* valid-parentheses: https://www.codewars.com/kata/6411b91a5e71b915d237332d
 	* get-the-middle-character: https://www.codewars.com/kata/56747fd5cb988479af000028
+	* consecutive-items: https://www.codewars.com/kata/5f6d533e1475f30001e47514
+	* dots-on-dominos-bones: https://www.codewars.com/kata/6405f2bb2894f600599172fd
+	* youre-a-square: https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+	* isograms: https://www.codewars.com/kata/54ba84be607a92aa900000f1
+	* descending-order: https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+	* string-ends-with: https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
