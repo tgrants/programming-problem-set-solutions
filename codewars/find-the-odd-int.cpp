@@ -11,4 +11,4 @@ int findOdd(std::vector<int> numbers) {
 	return numbers[numbers.size() - 1];
 }
 
-// std::count(numbers.begin(), numbers.end(), elem) % 2 != 0
+// return std::accumulate(numbers.cbegin(), numbers.cend(), 0, std::bit_xor<>());
