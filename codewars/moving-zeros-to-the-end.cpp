@@ -12,5 +12,5 @@ std::vector<int> move_zeroes(const std::vector<int>& input) {
 }
 
 // Other solutions:
-// * std::stable_partition
+// * std::stable_partition(), std::negate()
 // * filling another vector of the same size with 0s and replacing them

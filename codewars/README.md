@@ -11,6 +11,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* rot13: https://www.codewars.com/kata/530e15517bc88ac656000716
 	* moving-zeros-to-the-end: https://www.codewars.com/kata/52597aa56021e91c93000cb0/
 	* simple-pig-latin: https://www.codewars.com/kata/520b9d2ad5c005041100000f
+	* weight-for-weight: https://www.codewars.com/kata/55c6126177c9441a570000cc
 * 6 kyu
 	* multiples-of-3-or-5: https://www.codewars.com/kata/514b92a657cdc65150000006
 	* bit-counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
@@ -28,7 +29,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
 	* binary-addition: https://www.codewars.com/kata/551f37452ff852b7bd000139
 	* area-of-an-arrow: https://www.codewars.com/kata/589478160c0f8a40870000bc
-	* reverse-words: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/cpp
+	* reverse-words: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/
 	* odd-or-even: https://www.codewars.com/kata/5949481f86420f59480000e7
 	* complementary-dna: https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 	* are-the-numbers-in-order: https://www.codewars.com/kata/56b7f2f3f18876033f000307
@@ -50,6 +51,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* descending-order: https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 	* string-ends-with: https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
 	* highest-and-lowest: https://www.codewars.com/kata/554b4ac871d6813a03000035
+	* two-to-one: https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+	* find-the-next-perfect-square: https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
