@@ -53,6 +53,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* highest-and-lowest: https://www.codewars.com/kata/554b4ac871d6813a03000035
 	* two-to-one: https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 	* find-the-next-perfect-square: https://www.codewars.com/kata/56269eb78ad2e4ced1000013
+	* mumbling: https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
+	* beginner-series-3-sum-of-numbers: https://www.codewars.com/kata/55f2b110f61eb01779000053
+	* sum-of-odd-numbers: https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
