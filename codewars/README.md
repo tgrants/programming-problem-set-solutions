@@ -56,6 +56,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* mumbling: https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
 	* beginner-series-3-sum-of-numbers: https://www.codewars.com/kata/55f2b110f61eb01779000053
 	* sum-of-odd-numbers: https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
+	* printer-errors: https://www.codewars.com/kata/56541980fa08ab47a0000040
+	* small-enough: https://www.codewars.com/kata/57cc981a58da9e302a000214
+	* sum-of-angles: https://www.codewars.com/kata/5a03b3f6a1c9040084001765
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
