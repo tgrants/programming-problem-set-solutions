@@ -12,6 +12,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* moving-zeros-to-the-end: https://www.codewars.com/kata/52597aa56021e91c93000cb0/
 	* simple-pig-latin: https://www.codewars.com/kata/520b9d2ad5c005041100000f
 	* weight-for-weight: https://www.codewars.com/kata/55c6126177c9441a570000cc
+	* rgb-to-hex-conversion: https://www.codewars.com/kata/513e08acc600c94f01000001
 * 6 kyu
 	* multiples-of-3-or-5: https://www.codewars.com/kata/514b92a657cdc65150000006
 	* bit-counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
@@ -24,6 +25,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* find-the-odd-int: https://www.codewars.com/kata/54da5a58ea159efa38000836
 	* sum-of-digits-digital-root: https://www.codewars.com/kata/541c8630095125aba6000c00
 	* stop-gninnips-my-sdrow: https://www.codewars.com/kata/5264d2b162488dc400000001
+	* replace-with-alphabet-position: https://www.codewars.com/kata/546f922b54af40e1e90001da
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -59,6 +61,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* printer-errors: https://www.codewars.com/kata/56541980fa08ab47a0000040
 	* small-enough: https://www.codewars.com/kata/57cc981a58da9e302a000214
 	* sum-of-angles: https://www.codewars.com/kata/5a03b3f6a1c9040084001765
+	* persistent-buggers: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
