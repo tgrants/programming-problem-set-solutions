@@ -62,6 +62,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* small-enough: https://www.codewars.com/kata/57cc981a58da9e302a000214
 	* sum-of-angles: https://www.codewars.com/kata/5a03b3f6a1c9040084001765
 	* persistent-buggers: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+	* testing-1-2-3: https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9
+	* breaking-chocolate-problem: https://www.codewars.com/kata/534ea96ebb17181947000ada
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
