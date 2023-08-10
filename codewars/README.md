@@ -64,6 +64,10 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* persistent-buggers: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
 	* testing-1-2-3: https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9
 	* breaking-chocolate-problem: https://www.codewars.com/kata/534ea96ebb17181947000ada
+	* sort-numbers: https://www.codewars.com/kata/5174a4c0f2769dd8b1000003
+	* sum-of-a-sequence: https://www.codewars.com/kata/586f6741c66d18c22800010a
+	* remove-anchor-from-url: https://www.codewars.com/kata/51f2b4448cadf20ed0000386
+	* factorial: https://www.codewars.com/kata/57a049e253ba33ac5e000212
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
