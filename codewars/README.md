@@ -68,6 +68,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sum-of-a-sequence: https://www.codewars.com/kata/586f6741c66d18c22800010a
 	* remove-anchor-from-url: https://www.codewars.com/kata/51f2b4448cadf20ed0000386
 	* factorial: https://www.codewars.com/kata/57a049e253ba33ac5e000212
+	* reverse-a-number: https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c
+	* sort-array-by-string-length: https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
