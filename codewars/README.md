@@ -70,6 +70,12 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* factorial: https://www.codewars.com/kata/57a049e253ba33ac5e000212
 	* reverse-a-number: https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c
 	* sort-array-by-string-length: https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c
+	* fix-string-case: https://www.codewars.com/kata/5b180e9fedaa564a7000009a
+	* sum-of-cubes: https://www.codewars.com/kata/59a8570b570190d313000037
+	* alphabet-war: https://www.codewars.com/kata/59377c53e66267c8f6000027
+	* halving-sum: https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d
+	* perimeter-sequence: https://www.codewars.com/kata/589519d1f0902e01af000054
+	* digitalize: https://www.codewars.com/kata/5417423f9e2e6c2f040002ae
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
