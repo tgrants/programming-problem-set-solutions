@@ -26,6 +26,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sum-of-digits-digital-root: https://www.codewars.com/kata/541c8630095125aba6000c00
 	* stop-gninnips-my-sdrow: https://www.codewars.com/kata/5264d2b162488dc400000001
 	* replace-with-alphabet-position: https://www.codewars.com/kata/546f922b54af40e1e90001da
+	* duplicate-encoder: https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
+	* counting-duplicates: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+	* convert-string-to-camel-case: https://www.codewars.com/kata/517abf86da9663f1d2000003
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -76,6 +79,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* halving-sum: https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d
 	* perimeter-sequence: https://www.codewars.com/kata/589519d1f0902e01af000054
 	* digitalize: https://www.codewars.com/kata/5417423f9e2e6c2f040002ae
+	* sum-of-two-lowest-positive-integers: https://www.codewars.com/kata/558fc85d8fd1938afb000014
+	* filter-the-number: https://www.codewars.com/kata/55b051fac50a3292a9000025
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
