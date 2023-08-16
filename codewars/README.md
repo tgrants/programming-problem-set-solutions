@@ -30,6 +30,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* counting-duplicates: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 	* convert-string-to-camel-case: https://www.codewars.com/kata/517abf86da9663f1d2000003
 	* count-the-smiley-faces: https://www.codewars.com/kata/583203e6eb35d7980400002a
+	* tribonacci-sequence: https://www.codewars.com/kata/556deca17c58da83c00002db
+	* is-a-prime-number: https://www.codewars.com/kata/5262119038c0985a5b00029f
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
