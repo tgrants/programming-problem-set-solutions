@@ -85,6 +85,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sum-of-two-lowest-positive-integers: https://www.codewars.com/kata/558fc85d8fd1938afb000014
 	* filter-the-number: https://www.codewars.com/kata/55b051fac50a3292a9000025
 	* remove-the-minimum: https://www.codewars.com/kata/563cf89eb4747c5fb100001b
+	* eliminate-the-intruders-bit-manipulation: https://www.codewars.com/kata/5a0d38c9697598b67a000041
+	* cats-and-shelves: https://www.codewars.com/kata/62c93765cef6f10030dfa92b
+	* thinking-and-testing-true-or-false: https://www.codewars.com/kata/56d931ecc443d475d5000003
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
