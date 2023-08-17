@@ -88,6 +88,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* eliminate-the-intruders-bit-manipulation: https://www.codewars.com/kata/5a0d38c9697598b67a000041
 	* cats-and-shelves: https://www.codewars.com/kata/62c93765cef6f10030dfa92b
 	* thinking-and-testing-true-or-false: https://www.codewars.com/kata/56d931ecc443d475d5000003
+	* cogs: https://www.codewars.com/kata/59e1b9ce7997cbecb9000014
+	* cat-and-mouse-easy-version: https://www.codewars.com/kata/57ee24e17b45eff6d6000164
+	* growth-of-a-population: https://www.codewars.com/kata/563b662a59afc2b5120000c6
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
