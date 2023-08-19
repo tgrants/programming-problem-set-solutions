@@ -91,6 +91,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* cogs: https://www.codewars.com/kata/59e1b9ce7997cbecb9000014
 	* cat-and-mouse-easy-version: https://www.codewars.com/kata/57ee24e17b45eff6d6000164
 	* growth-of-a-population: https://www.codewars.com/kata/563b662a59afc2b5120000c6
+	* number-of-people-in-the-bus: https://www.codewars.com/kata/5648b12ce68d9daa6b000099
+	* two-oldest-ages: https://www.codewars.com/kata/511f11d355fe575d2c000001
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
