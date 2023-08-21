@@ -32,6 +32,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* count-the-smiley-faces: https://www.codewars.com/kata/583203e6eb35d7980400002a
 	* tribonacci-sequence: https://www.codewars.com/kata/556deca17c58da83c00002db
 	* is-a-prime-number: https://www.codewars.com/kata/5262119038c0985a5b00029f
+	* split-strings: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+	* find-the-unique-number: https://www.codewars.com/kata/585d7d5adb20cf33cb000235
+	* sum-of-the-first-nth-term-of-series: https://www.codewars.com/kata/555eded1ad94b00403000071
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
