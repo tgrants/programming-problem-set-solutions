@@ -96,6 +96,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* growth-of-a-population: https://www.codewars.com/kata/563b662a59afc2b5120000c6
 	* number-of-people-in-the-bus: https://www.codewars.com/kata/5648b12ce68d9daa6b000099
 	* two-oldest-ages: https://www.codewars.com/kata/511f11d355fe575d2c000001
+	* count-the-divisors-of-a-number: https://www.codewars.com/kata/542c0f198e077084c0000c2e
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -231,7 +232,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* localize-the-barycenter-of-a-triangle: https://www.codewars.com/kata/5601c5f6ba804403c7000004
 	* convert-string-to-a-number: https://www.codewars.com/kata/544675c6f971f7399a000e79
 	* remove-exclamation-marks: https://www.codewars.com/kata/57a0885cbb9944e24c00008e
-	* convert-number-to-a-string: https://www.codewars.com/kata/5265326f5fda8eb1160004c8
+	* convert-a-number-to-a-string: https://www.codewars.com/kata/5265326f5fda8eb1160004c8
 	* get-the-mean-of-an-array: https://www.codewars.com/kata/563e320cee5dddcf77000158
 	* grasshopper-check-for-factor: https://www.codewars.com/kata/55cbc3586671f6aa070000fb
 	* area-of-a-square: https://www.codewars.com/kata/5748838ce2fab90b86001b1a
