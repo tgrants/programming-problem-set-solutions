@@ -35,6 +35,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* split-strings: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 	* find-the-unique-number: https://www.codewars.com/kata/585d7d5adb20cf33cb000235
 	* sum-of-the-first-nth-term-of-series: https://www.codewars.com/kata/555eded1ad94b00403000071
+	* find-the-parity-outlier: https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -97,6 +98,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* number-of-people-in-the-bus: https://www.codewars.com/kata/5648b12ce68d9daa6b000099
 	* two-oldest-ages: https://www.codewars.com/kata/511f11d355fe575d2c000001
 	* count-the-divisors-of-a-number: https://www.codewars.com/kata/542c0f198e077084c0000c2e
+	* find-the-stray-number: https://www.codewars.com/kata/57f609022f4d534f05000024
+	* switcheroo: https://www.codewars.com/kata/57f759bb664021a30300007d
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
