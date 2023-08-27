@@ -100,6 +100,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* count-the-divisors-of-a-number: https://www.codewars.com/kata/542c0f198e077084c0000c2e
 	* find-the-stray-number: https://www.codewars.com/kata/57f609022f4d534f05000024
 	* switcheroo: https://www.codewars.com/kata/57f759bb664021a30300007d
+	* javascript-array-filter: https://www.codewars.com/kata/514a6336889283a3d2000001
+	* form-the-minimum: https://www.codewars.com/kata/5ac6932b2f317b96980000ca
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
