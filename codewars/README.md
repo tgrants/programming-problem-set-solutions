@@ -102,6 +102,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* switcheroo: https://www.codewars.com/kata/57f759bb664021a30300007d
 	* javascript-array-filter: https://www.codewars.com/kata/514a6336889283a3d2000001
 	* form-the-minimum: https://www.codewars.com/kata/5ac6932b2f317b96980000ca
+	* maximum-multiple: https://www.codewars.com/kata/5aba780a6a176b029800041c
+	* largest-5-digit-number-in-a-series: https://www.codewars.com/kata/51675d17e0c1bed195000001
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
