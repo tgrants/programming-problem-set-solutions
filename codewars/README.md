@@ -106,6 +106,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* largest-5-digit-number-in-a-series: https://www.codewars.com/kata/51675d17e0c1bed195000001
 	* simple-fun-176-reverse-letter: https://www.codewars.com/kata/58b8c94b7df3f116eb00005b
 	* alternate-capitalization: https://www.codewars.com/kata/59cfc000aeb2844d16000075
+	* find-the-vowels: https://www.codewars.com/kata/5680781b6b7c2be860000036
+	* bumps-in-the-road: https://www.codewars.com/kata/57ed30dde7728215300005fa
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
