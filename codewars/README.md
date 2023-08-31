@@ -108,6 +108,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* alternate-capitalization: https://www.codewars.com/kata/59cfc000aeb2844d16000075
 	* find-the-vowels: https://www.codewars.com/kata/5680781b6b7c2be860000036
 	* bumps-in-the-road: https://www.codewars.com/kata/57ed30dde7728215300005fa
+	* sum-of-numbers-from-0-to-n: https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763
+	* row-weights: https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
