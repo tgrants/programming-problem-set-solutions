@@ -110,6 +110,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* bumps-in-the-road: https://www.codewars.com/kata/57ed30dde7728215300005fa
 	* sum-of-numbers-from-0-to-n: https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763
 	* row-weights: https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9
+	* boiled-eggs: https://www.codewars.com/kata/52b5247074ea613a09000164
+	* sum-even-numbers: https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
