@@ -114,6 +114,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sum-even-numbers: https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3
 	* over-the-road: https://www.codewars.com/kata/5f0ed36164f2bc00283aed07
 	* vaporcode: https://www.codewars.com/kata/5966eeb31b229e44eb00007a
+	* leap-year: https://www.codewars.com/kata/526c7363236867513f0005ca
+	* simple-fun-74-growing-plant: https://www.codewars.com/kata/58941fec8afa3618c9000184
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
