@@ -121,6 +121,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* predict-your-age: https://www.codewars.com/kata/5aff237c578a14752d0035ae
 	* incrementer: https://www.codewars.com/kata/590e03aef55cab099a0002e8
 	* longest-vowel-chain: https://www.codewars.com/kata/59c5f4e9d751df43cf000035
+	* averages-of-numers: https://www.codewars.com/kata/57d2807295497e652b000139
+	* simple-beads-count: https://www.codewars.com/kata/58712dfa5c538b6fc7000569
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
