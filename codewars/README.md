@@ -128,6 +128,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sum-of-minimums: https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
 	* thinking-and-testing-a-and-b: https://www.codewars.com/kata/56d904db9963e9cf5000037d
 	* simple-fun-152-invite-more-woman: https://www.codewars.com/kata/58acfe4ae0201e1708000075
+	* buses: https://www.codewars.com/kata/640dee7cbad3aa002e7c7de4
+	* complete-the-pattern-1: https://www.codewars.com/kata/5572f7c346eb58ae9c000047
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
