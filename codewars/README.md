@@ -132,6 +132,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* complete-the-pattern-1: https://www.codewars.com/kata/5572f7c346eb58ae9c000047
 	* elevator-distance: https://www.codewars.com/kata/59f061773e532d0c87000d16
 	* max-min-arrays: https://www.codewars.com/kata/5a090c4e697598d0b9000004
+	* maximum-triplet-sum: https://www.codewars.com/kata/5aa1bcda373c2eb596000112
+	* dont-give-me-five: https://www.codewars.com/kata/5813d19765d81c592200001a
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
