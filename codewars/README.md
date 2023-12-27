@@ -314,6 +314,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* find-out-whether-the-shape-is-a-cube: https://www.codewars.com/kata/58d248c7012397a81800005c
 	* a-needle-in-the-haystack: https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
 	* bash-basics-while-loop: https://www.codewars.com/kata/582cd9033c1acf1d45000052
+	* well-of-ideas-easy-version: https://www.codewars.com/kata/57f222ce69e09c3630000212
+	* multiple-of-index: https://www.codewars.com/kata/5a34b80155519e1a00000009
 
 ## Beta
 
