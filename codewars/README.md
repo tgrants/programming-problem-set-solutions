@@ -316,6 +316,10 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* bash-basics-while-loop: https://www.codewars.com/kata/582cd9033c1acf1d45000052
 	* well-of-ideas-easy-version: https://www.codewars.com/kata/57f222ce69e09c3630000212
 	* multiple-of-index: https://www.codewars.com/kata/5a34b80155519e1a00000009
+	* take-the-derivative: https://www.codewars.com/kata/5963c18ecb97be020b0000a2
+	* find-multiples-of-a-number: https://www.codewars.com/kata/58ca658cc0d6401f2700045f
+	* short-long-short: https://www.codewars.com/kata/50654ddff44f800200000007
+	* surface-area-and-volume-of-a-box: https://www.codewars.com/kata/565f5825379664a26b00007c
 
 ## Beta
 
