@@ -320,6 +320,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* find-multiples-of-a-number: https://www.codewars.com/kata/58ca658cc0d6401f2700045f
 	* short-long-short: https://www.codewars.com/kata/50654ddff44f800200000007
 	* surface-area-and-volume-of-a-box: https://www.codewars.com/kata/565f5825379664a26b00007c
+	* to-squre-root-or-not-to-squre-root: https://www.codewars.com/kata/57f6ad55cca6e045d2000627
 
 ## Beta
 
