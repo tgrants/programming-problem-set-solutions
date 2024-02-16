@@ -134,6 +134,10 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* max-min-arrays: https://www.codewars.com/kata/5a090c4e697598d0b9000004
 	* maximum-triplet-sum: https://www.codewars.com/kata/5aa1bcda373c2eb596000112
 	* dont-give-me-five: https://www.codewars.com/kata/5813d19765d81c592200001a
+	* sql-basics-simple-join: https://www.codewars.com/kata/5802e32dd8c944e562000020
+	* sql-basics-simple-group-by: https://www.codewars.com/kata/58111f4ee10b5301a7000175
+	* hello-sql-world: https://www.codewars.com/kata/581283eb0a5fb13e06000020
+	* sql-basics-position: https://www.codewars.com/kata/59401e0e54a655a298000040
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4

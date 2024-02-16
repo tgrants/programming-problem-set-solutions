@@ -25,11 +25,12 @@ class site_stats():
 
 
 def fetch_stats(url):
+	print("Fetching URL '{}'".format(url))
 	page = requests.get(url)
 	if not page.ok:
 		print("Could not load {}. Status code {}".format(url, page.status_code))
 		exit()
-	print("URL '{}' fetched".format(url))
+	print("DONE".format(url))
 	return bs(page.text, "lxml")
 
 
