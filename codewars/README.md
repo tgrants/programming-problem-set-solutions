@@ -138,6 +138,10 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-simple-group-by: https://www.codewars.com/kata/58111f4ee10b5301a7000175
 	* hello-sql-world: https://www.codewars.com/kata/581283eb0a5fb13e06000020
 	* sql-basics-position: https://www.codewars.com/kata/59401e0e54a655a298000040
+	* sql-basics-raise-to-the-power: https://www.codewars.com/kata/594a8f653b5b4e8f3d000035
+	* sql-basics-create-a-function: https://www.codewars.com/kata/580fe518cefeff16d00000c0
+	* best-selling-books: https://www.codewars.com/kata/591127cbe8b9fb05bd00004b
+	* sql-basics-trimming-the-field: https://www.codewars.com/kata/59401c25c15cbeb58d000028
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -325,6 +329,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* short-long-short: https://www.codewars.com/kata/50654ddff44f800200000007
 	* surface-area-and-volume-of-a-box: https://www.codewars.com/kata/565f5825379664a26b00007c
 	* to-squre-root-or-not-to-squre-root: https://www.codewars.com/kata/57f6ad55cca6e045d2000627
+	* collinearity: https://www.codewars.com/kata/65ba420888906c1f86e1e680
 
 ## Beta
 
