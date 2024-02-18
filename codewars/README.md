@@ -142,6 +142,10 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-create-a-function: https://www.codewars.com/kata/580fe518cefeff16d00000c0
 	* best-selling-books: https://www.codewars.com/kata/591127cbe8b9fb05bd00004b
 	* sql-basics-trimming-the-field: https://www.codewars.com/kata/59401c25c15cbeb58d000028
+	* sql-basics-simple-join-with-count: https://www.codewars.com/kata/580918e24a85b05ad000010c
+	* easy-sql-counting-and-grouping: https://www.codewars.com/kata/594633020a561e329a0000a2
+	* sql-concatenating-columns: https://www.codewars.com/kata/59440034e94fae05b2000073
+	* countries-capitals-for-trivia-night: https://www.codewars.com/kata/5e5f09dc0a17be0023920f6f
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -330,6 +334,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* surface-area-and-volume-of-a-box: https://www.codewars.com/kata/565f5825379664a26b00007c
 	* to-squre-root-or-not-to-squre-root: https://www.codewars.com/kata/57f6ad55cca6e045d2000627
 	* collinearity: https://www.codewars.com/kata/65ba420888906c1f86e1e680
+	* circles-in-polygons: https://www.codewars.com/kata/5a026a9cffe75fbace00007f
 
 ## Beta
 
