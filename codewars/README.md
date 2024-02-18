@@ -36,6 +36,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* find-the-unique-number: https://www.codewars.com/kata/585d7d5adb20cf33cb000235
 	* sum-of-the-first-nth-term-of-series: https://www.codewars.com/kata/555eded1ad94b00403000071
 	* find-the-parity-outlier: https://www.codewars.com/kata/5526fc09a1bbd946250002dc
+	* sql-basics-simple-having: https://www.codewars.com/kata/58164ddf890632ce00000220
+	* sql-basics-simple-exists: https://www.codewars.com/kata/58113a64e10b53ec36000293
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -146,6 +148,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* easy-sql-counting-and-grouping: https://www.codewars.com/kata/594633020a561e329a0000a2
 	* sql-concatenating-columns: https://www.codewars.com/kata/59440034e94fae05b2000073
 	* countries-capitals-for-trivia-night: https://www.codewars.com/kata/5e5f09dc0a17be0023920f6f
+	* first-and-last-ip-in-a-network: https://www.codewars.com/kata/5db5ff03d10bfa001da9cf2e
+	* sql-disorder: https://www.codewars.com/kata/59cb550486a6fd10b50000ad
+	* give-me-10-rows-please: https://www.codewars.com/kata/64b105aaa216e600244525b4
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
