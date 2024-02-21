@@ -4,6 +4,8 @@ Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 
 If you're looking for a specific kata, it's recommended to go by the url.
 
+* 3 kyu
+	* (WIP) one-line-task-hard-fibonacci-numbers: https://www.codewars.com/kata/65cdd06eac0d2ad8ee6c6067
 * 4 kyu
 	* human-readable-duration-format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
 	* (TODO) matrix-determinant: https://www.codewars.com/kata/52a382ee44408cea2500074c
@@ -38,6 +40,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* find-the-parity-outlier: https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 	* sql-basics-simple-having: https://www.codewars.com/kata/58164ddf890632ce00000220
 	* sql-basics-simple-exists: https://www.codewars.com/kata/58113a64e10b53ec36000293
+	* sql-basics-top-10-customers-by-total-payments-amount: https://www.codewars.com/kata/580d08b5c049aef8f900007c
+	* sql-basics-simple-join-and-rank: https://www.codewars.com/kata/58094559c47d323ebd000035
+	* nth-fibonacci: https://www.codewars.com/kata/522551eee9abb932420004a0
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
