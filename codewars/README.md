@@ -156,6 +156,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* first-and-last-ip-in-a-network: https://www.codewars.com/kata/5db5ff03d10bfa001da9cf2e
 	* sql-disorder: https://www.codewars.com/kata/59cb550486a6fd10b50000ad
 	* give-me-10-rows-please: https://www.codewars.com/kata/64b105aaa216e600244525b4
+	* count-the-digit: https://www.codewars.com/kata/566fc12495810954b1000030
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -345,6 +346,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* to-squre-root-or-not-to-squre-root: https://www.codewars.com/kata/57f6ad55cca6e045d2000627
 	* collinearity: https://www.codewars.com/kata/65ba420888906c1f86e1e680
 	* circles-in-polygons: https://www.codewars.com/kata/5a026a9cffe75fbace00007f
+	* easy-logs: https://www.codewars.com/kata/5b68c7029756802aa2000176
+	* a-wolf-in-sheeps-clothing: https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
 
 ## Beta
 
