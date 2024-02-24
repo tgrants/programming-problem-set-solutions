@@ -43,6 +43,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-top-10-customers-by-total-payments-amount: https://www.codewars.com/kata/580d08b5c049aef8f900007c
 	* sql-basics-simple-join-and-rank: https://www.codewars.com/kata/58094559c47d323ebd000035
 	* nth-fibonacci: https://www.codewars.com/kata/522551eee9abb932420004a0
+	* sql-basics-simple-union-all: https://www.codewars.com/kata/58112f8004adbbdb500004fe
+	* sql-basics-simple-in: https://www.codewars.com/kata/58113c03009b4fcc66000d29
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
