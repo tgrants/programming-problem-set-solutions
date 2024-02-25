@@ -15,6 +15,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* simple-pig-latin: https://www.codewars.com/kata/520b9d2ad5c005041100000f
 	* weight-for-weight: https://www.codewars.com/kata/55c6126177c9441a570000cc
 	* rgb-to-hex-conversion: https://www.codewars.com/kata/513e08acc600c94f01000001
+	* count-ip-addresses: https://www.codewars.com/kata/526989a41034285187000de4
 * 6 kyu
 	* multiples-of-3-or-5: https://www.codewars.com/kata/514b92a657cdc65150000006
 	* bit-counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
@@ -45,6 +46,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* nth-fibonacci: https://www.codewars.com/kata/522551eee9abb932420004a0
 	* sql-basics-simple-union-all: https://www.codewars.com/kata/58112f8004adbbdb500004fe
 	* sql-basics-simple-in: https://www.codewars.com/kata/58113c03009b4fcc66000d29
+	* handshake-problem: https://www.codewars.com/kata/5574835e3e404a0bed00001b
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -159,6 +161,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-disorder: https://www.codewars.com/kata/59cb550486a6fd10b50000ad
 	* give-me-10-rows-please: https://www.codewars.com/kata/64b105aaa216e600244525b4
 	* count-the-digit: https://www.codewars.com/kata/566fc12495810954b1000030
+	* trilingual-democracy: https://www.codewars.com/kata/62f17be8356b63006a9899dc
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
