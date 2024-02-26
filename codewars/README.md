@@ -47,6 +47,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-simple-union-all: https://www.codewars.com/kata/58112f8004adbbdb500004fe
 	* sql-basics-simple-in: https://www.codewars.com/kata/58113c03009b4fcc66000d29
 	* handshake-problem: https://www.codewars.com/kata/5574835e3e404a0bed00001b
+	* sql-basics-monsters-using-case: https://www.codewars.com/kata/593ef0e98b90525e090000b9
+	* the-most-popular-product: https://www.codewars.com/kata/649d368a27e215c473e220ba
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
@@ -162,6 +164,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* give-me-10-rows-please: https://www.codewars.com/kata/64b105aaa216e600244525b4
 	* count-the-digit: https://www.codewars.com/kata/566fc12495810954b1000030
 	* trilingual-democracy: https://www.codewars.com/kata/62f17be8356b63006a9899dc
+	* anagram-detection: https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
