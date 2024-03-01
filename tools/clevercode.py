@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup as bs
 
 def fetch_stats(user):
 	# Check if user already has their stats saved
-	file_path = "meta/clevercode/{}_bs.txt".format(user)
+	file_path = "tools/clevercode/{}_bs.txt".format(user)
 	if path.isfile(file_path):
 		return bs(open(file_path).read(), "lxml")
 	else:
