@@ -63,7 +63,8 @@ if __name__ == "__main__":
 		clevercode_stats.points = soup_clevercode_a.parent.parent.contents[13].text
 		clevercode_stats.rank = soup_clevercode_a.parent.parent.contents[1].text
 		total_users = int(soup_clevercode_table.contents[-2].contents[1].text)
-		clevercode_stats.percentile = "Top " + str(round((total_users - int(clevercode_stats.rank)) / total_users, 3)) + "%"
+		percentile = (1 - ((total_users - int(clevercode_stats.rank)) / total_users)) * 100
+		clevercode_stats.percentile = "Top " + str(round(percentile, 3)) + "%"
 
 		site_stat_list.append(clevercode_stats)
 

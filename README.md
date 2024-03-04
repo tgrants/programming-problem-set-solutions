@@ -24,7 +24,6 @@ Newer code is more likely to use better practices.
 * [CleverCode](https://clevercode.lv/) +
 * [Codeforces](https://codeforces.com/) +
 * [Codewars](https://www.codewars.com/) +
-	* [If you want to join with a refferal URL](www.codewars.com/r/XTssMw) (I get internet points)
 	* Most 8 kyu C++ problems
 	* Some 7 kyu C++ problems
 * [HackerRank](https://www.hackerrank.com)
@@ -45,10 +44,10 @@ Newer code is more likely to use better practices.
 <!-- stats begin -->
 Site name | Problems | Points | Rank | Percentile
 --- | --- | --- | --- | ---
-Clevercode | 91 | 317 | 85 | Top 0.968%
-Codewars | 347 | 1168 | 24266 | Top 3.910%
+Clevercode | 96 | 333 | 75 | Top 2.845%
+Codewars | 348 | 1176 | 23944 | Top 3.850%
 
-Last update: 2024-02-27
+Last update: 2024-03-04
 <!-- stats end -->
 
 ## Usage
@@ -56,7 +55,7 @@ Last update: 2024-02-27
 This repository also contains some useful scrips:
 * `clear.sh` - removes all executables
 * `clear-all.sh` - removes all solutions
-* `clevercode.py` - pulls and processes data from clevercode.lv
+* `clevercode.py` - pulls and processes data from [CleverCode](https://clevercode.lv)
 * `rank.py` - gets user statistics from competitive programming sites
 
 ## Contributing
