@@ -166,6 +166,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* count-the-digit: https://www.codewars.com/kata/566fc12495810954b1000030
 	* trilingual-democracy: https://www.codewars.com/kata/62f17be8356b63006a9899dc
 	* anagram-detection: https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7
+	* sql-basics-repeat-and-reverse: https://www.codewars.com/kata/59414360f5c3947364000070
+	* grocery-store-inventory: https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1
+	* sql-with-elven-wildcards: https://www.codewars.com/kata/5ad90fb688a0b74111000055
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
