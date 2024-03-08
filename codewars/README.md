@@ -169,6 +169,9 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-repeat-and-reverse: https://www.codewars.com/kata/59414360f5c3947364000070
 	* grocery-store-inventory: https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1
 	* sql-with-elven-wildcards: https://www.codewars.com/kata/5ad90fb688a0b74111000055
+	* convert-an-array-of-strings-to-an-array-of-numbers: https://www.codewars.com/kata/5783d8f3202c0e486c001d23
+	* number-of-decimal-digits: https://www.codewars.com/kata/58fa273ca6d84c158e000052
+	* basics-length-based-select-with-like: https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -236,7 +239,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* 101-dalmatians: https://www.codewars.com/kata/56f6919a6b88de18ff000b36
 	* (WIP) hello-world: https://www.codewars.com/kata/523b4ff7adca849afe000035
 	* multiplication-table-for-numbers: https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce
-	* grade-book: https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+	* grasshopper-grade-book: https://www.codewars.com/kata/55cbd4ba903825f7970000f5
 	* keep-hydrated: https://www.codewars.com/kata/582cb0224e56e068d800003c
 	* what-is-between: https://www.codewars.com/kata/55ecd718f46fba02e5000029
 	* the-if-function: https://www.codewars.com/kata/54147087d5c2ebe4f1000805
