@@ -50,6 +50,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-monsters-using-case: https://www.codewars.com/kata/593ef0e98b90525e090000b9
 	* the-most-popular-product: https://www.codewars.com/kata/649d368a27e215c473e220ba
 	* sql-basics-simple-table-totaling: https://www.codewars.com/kata/5809575e166583acfa000083
+	* sql-basics-simple-null-handling: https://www.codewars.com/kata/5811315e04adbbdb5000050e
 * 7 kyu
 	* disemvovel-trolls: https://www.codewars.com/kata/52fba66badcd10859f00097e
 	* vowel-count: https://www.codewars.com/kata/54ff3102c1bad923760001f3
