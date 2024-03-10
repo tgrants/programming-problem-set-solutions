@@ -1,5 +1,6 @@
 -- SQL Basics - Monsters using CASE
--- PostgreSQL 13.0
+-- https://www.codewars.com/kata/593ef0e98b90525e090000b9
+-- 6kyu, PostgreSQL 13.0
 
 SELECT
 	*,

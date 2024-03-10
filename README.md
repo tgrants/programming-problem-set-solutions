@@ -44,10 +44,10 @@ Newer code is more likely to use better practices.
 <!-- stats begin -->
 Site name | Problems | Points | Rank | Percentile
 --- | --- | --- | --- | ---
-Clevercode | 96 | 333 | 75 | Top 2.845%
-Codewars | 348 | 1176 | 23944 | Top 3.850%
+Clevercode | 96 | 333 | 76 | Top 2.878%
+Codewars | 355 | 1202 | 23233 | Top 3.725%
 
-Last update: 2024-03-04
+Last update: 2024-03-10
 <!-- stats end -->
 
 ## Usage
@@ -57,6 +57,7 @@ This repository also contains some useful scrips:
 * `clear-all.sh` - removes all solutions
 * `clevercode.py` - pulls and processes data from [CleverCode](https://clevercode.lv)
 * `rank.py` - gets user statistics from competitive programming sites
+* `validate.py` - checks proper code formatting in this repository
 
 ## Contributing
 
