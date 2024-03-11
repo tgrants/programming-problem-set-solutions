@@ -1,4 +1,7 @@
-#include <vector>
+// 101 Dalmatians - squash the bugs, not the dogs!
+// https://www.codewars.com/kata/56f6919a6b88de18ff000b36
+// 8kyu, Clang 8 C++17
+
 #include <string>
 
 std::string howManyDalmatians(int number) {

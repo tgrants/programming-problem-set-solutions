@@ -26,20 +26,27 @@ def check_newline_at_end(path) -> bool:
 			return False
 
 
+def check_trailing_whitespace(path) -> bool:
+	# TODO
+	return True
+
+
 if __name__ == "__main__":
 	lint = [
 		{
 			"dir": "clevercode",
 			"checks": [
 				check_indentation,
-				check_newline_at_end
+				check_newline_at_end,
+				check_trailing_whitespace
 			]
 		},
 		{
 			"dir": "codeforces",
 			"checks": [
 				check_indentation,
-				check_newline_at_end
+				check_newline_at_end,
+				check_trailing_whitespace
 			]
 		}
 	]

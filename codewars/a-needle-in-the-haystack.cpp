@@ -1,3 +1,7 @@
+// A Needle in the Haystack
+// https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
+// 8kyu, Clang 8 C++17
+
 #include <algorithm>
 #include <string>
 #include <vector>

@@ -1,4 +1,30 @@
-# List of katas
+## Comment templates
+
+### C, C++
+
+```
+// The full title of the kata
+// https://www.codewars.com/kata/000000000000000000000000
+// xkyu, language and compiler version
+```
+
+### Python
+
+```
+# The full title of the kata
+# https://www.codewars.com/kata/000000000000000000000000
+# xkyu, Python version
+```
+
+### SQL
+
+```
+-- The full title of the kata
+-- https://www.codewars.com/kata/000000000000000000000000
+-- xkyu, DBMS version
+```
+
+## List of katas
 
 Ordered by difficulty, higher kyu (1 - 8) equals easier problems.
 
@@ -173,6 +199,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* convert-an-array-of-strings-to-an-array-of-numbers: https://www.codewars.com/kata/5783d8f3202c0e486c001d23
 	* number-of-decimal-digits: https://www.codewars.com/kata/58fa273ca6d84c158e000052
 	* basics-length-based-select-with-like: https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198
+	* alphabetical-addition: https://www.codewars.com/kata/5d50e3914861a500121e1958
+	* sql-basics-maths-with-string-manipulation: https://www.codewars.com/kata/594901ba44645fd7bd00005f
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4

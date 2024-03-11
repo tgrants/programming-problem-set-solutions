@@ -2,10 +2,10 @@
 #include <string.h>
 
 int main() {
-    char b[12][2] = {
-        "aa", "ee", "ii", "oo", "uu",
-        "gj", "lj", "kj", "nj",
-        "ch", "sh", "zh"};
+	char b[12][2] = {
+		"aa", "ee", "ii", "oo", "uu",
+		"gj", "lj", "kj", "nj",
+		"ch", "sh", "zh"};
 	char s[250] = {0};
 	scanf("%[^\t\n]", &s);
 	int bs = 1;
