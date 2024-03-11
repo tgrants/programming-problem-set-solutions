@@ -27,7 +27,11 @@ def check_newline_at_end(path) -> bool:
 
 
 def check_trailing_whitespace(path) -> bool:
-	# TODO
+	with open(path, 'r') as file:
+		for line in file:
+			if line.rstrip() != line.rstrip("\n"):
+				#print("Trailing whitespace found: ", line)
+				return False
 	return True
 
 
@@ -48,22 +52,41 @@ if __name__ == "__main__":
 				check_newline_at_end,
 				check_trailing_whitespace
 			]
+		},
+		{
+			"dir": "hackerrank",
+			"checks": [
+				check_indentation,
+				check_newline_at_end,
+				check_trailing_whitespace
+			]
+		},
+		{
+			"dir": "leetcode",
+			"checks": [
+				check_indentation,
+				check_newline_at_end,
+				check_trailing_whitespace
+			]
 		}
 	]
-	extensions = (".c", ".cpp")
+	extensions = (".c", ".cpp", ".go", ".py", ".rs", ".sql",)
 	limit: int = 5
 
+	failed_checks = {}
 	for dirs in lint:
 		directory = dirs.get("dir")
-		print(f"== {directory} ==")
 		for filename in os.listdir(directory):
-			if limit <= 0: break
 			if not filename.endswith(extensions): continue
 			path = os.path.join(directory, filename)
 			if not os.path.isfile(path): continue
 			for check in dirs.get("checks"):
 				if not check(path): # Check failed
-					limit -= 1
-					print(path, "failed", check.__name__)
-					break
-
+					if path in failed_checks:
+						failed_checks[path].append(check.__name__)
+					else:
+						failed_checks[path] = [check.__name__]
+	# Print result
+	failed_checks_sorted = dict(sorted(failed_checks.items(), key=lambda item: len(item[1]), reverse=True)[:limit])
+	for key, value in failed_checks_sorted.items():
+		print(f"{key}: {value}")

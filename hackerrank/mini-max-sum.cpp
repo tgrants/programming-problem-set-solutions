@@ -19,7 +19,7 @@ int main() {
 	
 	while (std::cin >> str)
 		arr.push_back(std::stol(str));
-		
+
 	miniMaxSum(arr);
 	return 0;
 }
