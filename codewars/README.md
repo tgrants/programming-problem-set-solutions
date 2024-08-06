@@ -393,6 +393,8 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* circles-in-polygons: https://www.codewars.com/kata/5a026a9cffe75fbace00007f
 	* easy-logs: https://www.codewars.com/kata/5b68c7029756802aa2000176
 	* a-wolf-in-sheeps-clothing: https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
+	* flick-switch: https://www.codewars.com/kata/64fbfe2618692c2018ebbddb
+	* sentence-smash: https://www.codewars.com/kata/53dc23c68a0c93699800041d
 
 ## Beta
 

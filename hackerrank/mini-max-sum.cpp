@@ -16,7 +16,7 @@ void miniMaxSum(std::vector<int> arr) {
 int main() {
 	std::string str;
 	std::vector<int> arr;
-	
+
 	while (std::cin >> str)
 		arr.push_back(std::stol(str));
 
