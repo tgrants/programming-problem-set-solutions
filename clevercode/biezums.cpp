@@ -13,9 +13,9 @@ int main() {
 	}
 
 	int maxCount = 0;
-    for (auto i : hash)
-        if (maxCount < i.second)
-            maxCount = i.second;
+	for (auto i : hash)
+		if (maxCount < i.second)
+			maxCount = i.second;
 
 	std::cout << maxCount << std::endl;
 }

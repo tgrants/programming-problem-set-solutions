@@ -202,6 +202,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* basics-length-based-select-with-like: https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198
 	* alphabetical-addition: https://www.codewars.com/kata/5d50e3914861a500121e1958
 	* sql-basics-maths-with-string-manipulation: https://www.codewars.com/kata/594901ba44645fd7bd00005f
+	* friend-or-foe: https://www.codewars.com/kata/55b42574ff091733d900002f
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
@@ -395,6 +396,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* a-wolf-in-sheeps-clothing: https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
 	* flick-switch: https://www.codewars.com/kata/64fbfe2618692c2018ebbddb
 	* sentence-smash: https://www.codewars.com/kata/53dc23c68a0c93699800041d
+	* keep-up-the-hoop: https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
 
 ## Beta
 
