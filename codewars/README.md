@@ -203,6 +203,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* alphabetical-addition: https://www.codewars.com/kata/5d50e3914861a500121e1958
 	* sql-basics-maths-with-string-manipulation: https://www.codewars.com/kata/594901ba44645fd7bd00005f
 	* friend-or-foe: https://www.codewars.com/kata/55b42574ff091733d900002f
+	* even-number-in-an-array: https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4

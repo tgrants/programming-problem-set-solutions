@@ -4,8 +4,8 @@
 #include <string>
 
 int main() {
-    std::string in, out;
-    std::cin >> in;
+	std::string in, out;
+	std::cin >> in;
 
-    std::cout << out;
+	std::cout << out;
 }

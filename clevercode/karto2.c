@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>  
+#include <string.h>
 
 // V1 2022-08-22
 void insertionSort(char arr[][20], int n) {

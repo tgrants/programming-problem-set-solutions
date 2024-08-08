@@ -1,4 +1,9 @@
+# Ignore everyhing
 *
+# Except
+# these extensions
 !*.c
 !*.cpp
+!*.sql
+# And the these files
 !.gitignore
