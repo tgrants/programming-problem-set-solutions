@@ -1,9 +1,13 @@
 # Ignore everyhing
 *
 # Except
+# these directories
+!/python
+!/sql
 # these extensions
 !*.c
 !*.cpp
+!*.py
 !*.sql
-# And the these files
+# and the these files
 !.gitignore
