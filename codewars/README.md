@@ -204,6 +204,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sql-basics-maths-with-string-manipulation: https://www.codewars.com/kata/594901ba44645fd7bd00005f
 	* friend-or-foe: https://www.codewars.com/kata/55b42574ff091733d900002f
 	* even-number-in-an-array: https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c
+	* odd-even-string-sort: https://www.codewars.com/kata/580755730b5a77650500010c
 * 8 kyu
 	* multiply: https://www.codewars.com/kata/50654ddff44f800200000004
 	* students-final-grade: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
