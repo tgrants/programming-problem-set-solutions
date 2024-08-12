@@ -45,9 +45,9 @@ Newer code is more likely to use better practices.
 Site name | Problems | Points | Rank | Percentile
 --- | --- | --- | --- | ---
 Clevercode | 96 | 333 | 78 | Top 2.935%
-Codewars | 362 | 1225 | 23564 | Top 3.601%
+Codewars | 364 | 1231 | 23460 | Top 3.578%
 
-Last update: 2024-08-07
+Last update: 2024-08-12
 <!-- stats end -->
 
 ## Usage
@@ -61,9 +61,8 @@ This repository also contains some useful scrips:
 
 ## Contributing
 
-If you notice a typo, code that no longer works or something else, feel free to open an issue.
-Pull requests with solutions won't be merged, as this is only for practice.
-However, contributions to the tools and scripts are welcome.
+I currently don't accept pull requests for this repository.
+However, if you notice a typo, a solution that no longer works or something else, feel free to open an issue.
 
 ## License
 

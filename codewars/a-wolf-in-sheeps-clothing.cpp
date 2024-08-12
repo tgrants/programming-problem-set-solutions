@@ -1,5 +1,6 @@
 // A wolf in sheep's clothing
-// Clang 8 C++17
+// https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
+// 8kyu, Clang 8 C++17
 
 #include <algorithm>
 #include <string>
