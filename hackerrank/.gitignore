@@ -2,6 +2,7 @@
 *
 # Except
 # these directories
+!/problem-solving
 !/python
 !/sql
 # these extensions

@@ -1,3 +1,7 @@
+// All unique
+// https://www.codewars.com/kata/553e8b195b853c6db4000048
+// 7kyu, Clang 8 C++17
+
 #include <algorithm>
 #include <string>
 
