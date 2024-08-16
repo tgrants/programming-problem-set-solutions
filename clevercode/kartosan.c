@@ -12,7 +12,7 @@ int main() {
 		scanf("%d", &m[i]);
 	quicksort(m, 0, n - 1);
 	for(int i = 0; i < n; i++)
-		printf("%d\n", m[i]);	
+		printf("%d\n", m[i]);
 }
 
 // V1 2022-08-23
