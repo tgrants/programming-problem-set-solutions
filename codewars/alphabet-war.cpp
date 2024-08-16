@@ -1,3 +1,7 @@
+// Alphabet war
+// https://www.codewars.com/kata/59377c53e66267c8f6000027
+// 7kyu, Clang 8 C++17
+
 #include <algorithm>
 #include <string>
 

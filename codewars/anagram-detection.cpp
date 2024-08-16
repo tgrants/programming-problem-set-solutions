@@ -1,6 +1,6 @@
 // Anagram Detection
 // https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7
-// Clang 8 C++17
+// 7kyu, Clang 8 C++17
 
 #include <algorithm>
 #include <string>

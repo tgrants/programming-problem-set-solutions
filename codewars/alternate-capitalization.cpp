@@ -1,3 +1,7 @@
+// Alternate capitalization
+// https://www.codewars.com/kata/59cfc000aeb2844d16000075
+// 7kyu, Clang 8 C++17
+
 #include <cctype>
 #include <string>
 #include <utility>

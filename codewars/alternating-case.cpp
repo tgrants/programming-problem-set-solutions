@@ -1,3 +1,7 @@
+// altERnaTIng cAsE <=> ALTerNAtiNG CaSe
+// https://www.codewars.com/kata/56efc695740d30f963000557
+// 8kyu, Clang 8 C++17
+
 #include <string>
 
 std::string to_alternating_case(std::string s) {
