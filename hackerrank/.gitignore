@@ -12,3 +12,4 @@
 !*.sql
 # and the these files
 !.gitignore
+!README.md

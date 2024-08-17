@@ -5,10 +5,32 @@ from pathlib import Path
 import os
 
 
+class reversor:
+	def __init__(self, obj):
+		self.obj = obj
+
+	def __eq__(self, other):
+		return other.obj == self.obj
+
+	def __lt__(self, other):
+		return other.obj < self.obj
+
+
 def check_indentation(path) -> bool:
 	spaces_count: int = 0
+	comment_open_count: int = 0
+	comment_close_count: int = 0
 	with open(path, 'r') as file:
 		for line in file:
+			# C-style comment check
+			if "/*" in line:
+				comment_open_count += 1
+			if "*/" in line:
+				comment_close_count += 1
+				line = line.split("*/")[1] # Remove everything before comment ends
+			if comment_open_count > comment_close_count:
+				continue # A multiline comment is open, ignore whitespace
+			# Count leading spaces
 			leading_spaces = len(line) - len(line.lstrip(' '))
 			# leading_tabs = len(line) - len(line.lstrip('\t'))
 			if (leading_spaces > 0): spaces_count += 1
@@ -87,6 +109,10 @@ if __name__ == "__main__":
 					else:
 						failed_checks[path] = [check.__name__]
 	# Print result
-	failed_checks_sorted = dict(sorted(failed_checks.items(), key=lambda item: len(item[1]), reverse=True)[:limit])
+	failed_checks_sorted = dict(sorted(
+		failed_checks.items(),
+		key=lambda item: (len(item[1]), reversor(item[0])),
+		reverse=True
+	)[:limit])
 	for key, value in failed_checks_sorted.items():
 		print(f"{key}: {value}")
