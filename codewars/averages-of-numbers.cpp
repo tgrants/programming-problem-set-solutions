@@ -1,3 +1,7 @@
+// Averages of numbers
+// https://www.codewars.com/kata/57d2807295497e652b000139
+// 7kyu, Clang 8 C++17
+
 #include <vector>
 
 std::vector<double> averages(std::vector<int> numbers) {
