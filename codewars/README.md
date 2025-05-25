@@ -399,6 +399,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* flick-switch: https://www.codewars.com/kata/64fbfe2618692c2018ebbddb
 	* sentence-smash: https://www.codewars.com/kata/53dc23c68a0c93699800041d
 	* keep-up-the-hoop: https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
+	* quarter-of-the-year: https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
 
 ## Beta
 
