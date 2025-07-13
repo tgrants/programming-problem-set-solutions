@@ -230,7 +230,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* calculate-average: https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
 	* abbreviate-a-two-word-name: https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 	* school-paperwork: https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
-	* basic-mathematical-expressions: https://www.codewars.com/kata/57356c55867b9b7a60000bd7
+	* basic-mathematical-operations: https://www.codewars.com/kata/57356c55867b9b7a60000bd7
 	* simple-multiplication: https://www.codewars.com/kata/583710ccaa6717322c000105
 	* traffic-light: https://www.codewars.com/kata/58649884a1659ed6cb000072
 	* grasshopper-summation: https://www.codewars.com/kata/55d24f55d7dd296eb9000030
@@ -400,6 +400,7 @@ If you're looking for a specific kata, it's recommended to go by the url.
 	* sentence-smash: https://www.codewars.com/kata/53dc23c68a0c93699800041d
 	* keep-up-the-hoop: https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
 	* quarter-of-the-year: https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
+	* tricky-questions: https://www.codewars.com/kata/572269697297444c570008b9
 
 ## Beta
 

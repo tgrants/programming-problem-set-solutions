@@ -3,14 +3,14 @@ private:
 	int big;
 	int medium;
 	int small;
-	
+
 public:
 	ParkingSystem(int big, int medium, int small) {
 		this -> big = big;
 		this -> medium = medium;
 		this -> small = small;
 	}
-	
+
 	bool addCar(int carType) {
 		switch (carType) {
 			case 1:

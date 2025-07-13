@@ -59,6 +59,8 @@ This repository also contains some useful scrips:
 * `rank.py` - gets user statistics from competitive programming sites
 * `validate.py` - checks proper code formatting in this repository
 
+You can run them with `python3 tools/<tool_name>.py`
+
 ## Contributing
 
 I currently don't accept pull requests for this repository.
@@ -66,4 +68,5 @@ However, if you notice a typo, a solution that no longer works or something else
 
 ## License
 
-This repository is licensed under the MIT License. See `LICENSE` for more information.
+This repository is licensed under the terms of the [MIT License](https://choosealicense.com/licenses/mit/).
+See the [LICENSE](LICENSE) for more information.
